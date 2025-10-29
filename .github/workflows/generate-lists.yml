@@ -19,3 +19,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Generate lists
+          commit_author: Github Actions <actions@github.com>
