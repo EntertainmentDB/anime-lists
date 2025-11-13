@@ -32110,6 +32110,9 @@
   <anime anidbid="15472" tvdbid="370931" defaulttvdbseason="2" tmdbtv="94523" tmdbseason="2">
     <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen'ya</name>
   </anime>
+  <anime anidbid="15473" tvdbid="264533" defaulttvdbseason="0" episodeoffset="19">
+    <name>A Song for You! You? You!!</name>
+  </anime>
   <anime anidbid="15475" tvdbid="283947" defaulttvdbseason="0" episodeoffset="5" tmdbtv="62110" tmdbseason="0" tmdboffset="5">
     <name>Ansatsu Kyoushitsu: Second Season - Kagaijugyou Hen</name>
   </anime>
@@ -32645,6 +32648,9 @@
   </anime>
   <anime anidbid="15906" tvdbid="400003" defaulttvdbseason="1" tmdbtv="114199" tmdbseason="1">
     <name>Puraore! Pride of Orange</name>
+  </anime>
+  <anime anidbid="15910" tvdbid="443905" defaulttvdbseason="1" tmdbtv="255107" tmdbseason="1">
+    <name>Code Geass: Dakkan no Roze</name>
   </anime>
   <anime anidbid="15912" tvdbid="407852" defaulttvdbseason="1" tmdbtv="114307" tmdbseason="1">
     <name>Sankaku Mado no Sotogawa wa Yoru</name>
@@ -33326,6 +33332,9 @@
   </anime>
   <anime anidbid="16508" tvdbid="392988" defaulttvdbseason="2" tmdbtv="106126" tmdbseason="2">
     <name>Toutotsu ni Egypt Shin 2</name>
+  </anime>
+  <anime anidbid="16509" tvdbid="movie" defaulttvdbseason="1" imdbid="tt22474136">
+    <name>Digimon Adventure 02: The Beginning</name>
   </anime>
   <anime anidbid="16511" tvdbid="408325" defaulttvdbseason="1" tmdbtv="128212" tmdbseason="1">
     <name>Can Ci Pin: Fangzhu Xingkong</name>
@@ -36356,6 +36365,9 @@
   <anime anidbid="19019" tvdbid="457325" defaulttvdbseason="1" tmdbtv="278378" tmdbseason="1">
     <name>Kimi to Idol Precure</name>
   </anime>
+  <anime anidbid="19020" tvdbid="movie" defaulttvdbseason="1" tmdbid="1395140" imdbid="tt34812090">
+    <name>Lupin the IIIrd the Movie: Fujimi no Ketsuzoku</name>
+  </anime>
   <anime anidbid="19022" tvdbid="457372" defaulttvdbseason="1" tmdbtv="278604" tmdbseason="1">
     <name>Gnosia</name>
   </anime>
@@ -36373,6 +36385,9 @@
   </anime>
   <anime anidbid="19045" tvdbid="457765" defaulttvdbseason="1" tmdbtv="280366" tmdbseason="1">
     <name>Food Court de, Mata Ashita.</name>
+  </anime>
+  <anime anidbid="19047" tvdbid="428168" defaulttvdbseason="2" tmdbtv="216074" tmdbseason="2">
+    <name>2.5 Jigen no Ririsa 2</name>
   </anime>
   <anime anidbid="19048" tvdbid="movie" defaulttvdbseason="1" tmdbid="1329578">
     <name>Tabekko Doubutsu</name>
@@ -36493,6 +36508,9 @@
   </anime>
   <anime anidbid="19295" tvdbid="259635" defaulttvdbseason="6" tmdbtv="46437" tmdbseason="6">
     <name>Kingdom (2025)</name>
+  </anime>
+  <anime anidbid="19338" tvdbid="movie" defaulttvdbseason="1" tmdbid="1474048" imdbid="tt36757407">
+    <name>Lupin the IIIrd: Zenigata to Futari no Lupin</name>
   </anime>
   <anime anidbid="19357" tvdbid="464419" defaulttvdbseason="1" tmdbtv="232230" tmdbseason="1">
     <name>Guimi Zhi Zhu</name>
