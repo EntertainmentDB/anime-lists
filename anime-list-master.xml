@@ -23949,7 +23949,7 @@
   <anime anidbid="8586" tvdbid="219131" defaulttvdbseason="0" episodeoffset="" tmdbtv="46025" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou</name>
   </anime>
-  <anime anidbid="8587" tvdbid="257766" defaulttvdbseason="1" episodeoffset="" tmdbtv="70228" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="8587" tvdbid="257766" defaulttvdbseason="0" episodeoffset="" tmdbtv="70228" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
     <name>Kimi no Iru Machi: Tasogare Kousaten</name>
   </anime>
   <anime anidbid="8590" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -28261,11 +28261,8 @@
   <anime anidbid="10161" tvdbid="279533" defaulttvdbseason="1" episodeoffset="" tmdbtv="65711" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kantai Collection: KanColle</name>
   </anime>
-  <anime anidbid="10162" tvdbid="257766" defaulttvdbseason="0" episodeoffset="" tmdbtv="70228" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="10162" tvdbid="257766" defaulttvdbseason="0" episodeoffset="2" tmdbtv="70228" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="">
     <name>Kimi no Iru Machi (2014)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="10166" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Follow Me</name>
