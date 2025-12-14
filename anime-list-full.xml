@@ -10182,7 +10182,7 @@
     <name>Arashi no Yoru ni</name>
   </anime>
   <anime anidbid="3438" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1930285">
-    <name>Ashita Genki ni Naare!: Hanbun no Satsumaimo</name>
+    <name>Ashita Genki ni Naare! Hanbun no Satsumaimo</name>
   </anime>
   <anime anidbid="3439" tvdbid="OVA" defaulttvdbseason="1" imdbid="tt0295582">
     <name>Sanctuary</name>
@@ -35960,8 +35960,8 @@
   <anime anidbid="18603" tvdbid="355966" defaulttvdbseason="0">
     <name>Go-Toubun no Hanayome *</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;401-4;402-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="18607" tvdbid="339922" defaulttvdbseason="2" tmdbtv="78483" tmdbseason="2">
