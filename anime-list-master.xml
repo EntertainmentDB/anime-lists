@@ -10998,7 +10998,7 @@
     <name>Arashi no Yoru ni</name>
   </anime>
   <anime anidbid="3438" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt1930285">
-    <name>Ashita Genki ni Naare!: Hanbun no Satsumaimo</name>
+    <name>Ashita Genki ni Naare! Hanbun no Satsumaimo</name>
   </anime>
   <anime anidbid="3439" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0295582">
     <name>Sanctuary</name>
@@ -51524,8 +51524,8 @@
   <anime anidbid="18603" tvdbid="355966" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Go-Toubun no Hanayome *</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;401-4;402-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="18604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -54433,7 +54433,7 @@
     <name>Wo Zai Tianting Shou Feipin</name>
   </anime>
   <anime anidbid="19627" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Marika Kanri Den</name>
+    <name>Matsurika Kanri Den</name>
   </anime>
   <anime anidbid="19628" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Otaku ni Yasashii Gal wa Inai!?</name>
@@ -54703,7 +54703,7 @@
     <name>Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita.</name>
   </anime>
   <anime anidbid="19721" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Luo Xiao Hei Zhanji (2025)</name>
+    <name>Luo Xiao Hei Zhanji 2</name>
   </anime>
   <anime anidbid="19722" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mata Korosarete Shimatta no Desu ne, Tantei-sama</name>
@@ -54800,5 +54800,38 @@
   </anime>
   <anime anidbid="19754" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kyoufu Collector</name>
+  </anime>
+  <anime anidbid="19755" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Uchi no Otouto-domo ga Sumimasen</name>
+  </anime>
+  <anime anidbid="19756" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Mou Ichido, Shite Mitai.</name>
+  </anime>
+  <anime anidbid="19757" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Code Geass: Hoshi Oi no Aspar</name>
+  </anime>
+  <anime anidbid="19758" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Women Zai Heiye Zhong Xiang Yong</name>
+  </anime>
+  <anime anidbid="19759" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Sanxian Lun Hui</name>
+  </anime>
+  <anime anidbid="19760" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!</name>
+  </anime>
+  <anime anidbid="19761" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Bai Lian Cheng Shen 3</name>
+  </anime>
+  <anime anidbid="19762" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Anal Mania Otaku to Ananii Daisuki na Ojou-sama</name>
+  </anime>
+  <anime anidbid="19763" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita. 2</name>
+  </anime>
+  <anime anidbid="19764" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Reiwa no Dara-san</name>
+  </anime>
+  <anime anidbid="19765" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Psyren</name>
   </anime>
 </anime-list>
