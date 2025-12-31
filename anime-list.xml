@@ -36537,6 +36537,12 @@
   <anime anidbid="19385" tvdbid="357471" defaulttvdbseason="3" tmdbtv="87478" tmdbseason="3">
     <name>Isekai Quartet 3</name>
   </anime>
+  <anime anidbid="19402" tvdbid="354198" defaulttvdbseason="0" episodeoffset="14" tmdbtv="83121" tmdbseason="0" tmdboffset="4">
+    <name>Kaguya-sama wa Kokurasetai: Otona e no Kaidan</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15+16;401-15;402-16;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="19415" tvdbid="465214" defaulttvdbseason="1" tmdbtv="294867" tmdbseason="1">
     <name>Towa no Yuugure</name>
   </anime>
