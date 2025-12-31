@@ -53775,8 +53775,11 @@
   <anime anidbid="19401" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Terra Live</name>
   </anime>
-  <anime anidbid="19402" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19402" tvdbid="354198" defaulttvdbseason="0" episodeoffset="14" tmdbtv="83121" tmdbseason="0" tmdboffset="4" tmdbid="" imdbid="">
     <name>Kaguya-sama wa Kokurasetai: Otona e no Kaidan</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-15+16;401-15;402-16;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="19403" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Sore o Ai to Yobu Dake</name>
