@@ -35867,7 +35867,7 @@
   <anime anidbid="18537" tvdbid="447609" defaulttvdbseason="1" tmdbtv="259786" tmdbseason="1">
     <name>Sayounara Ryuusei, Konnichiwa Jinsei</name>
   </anime>
-  <anime anidbid="18538" tvdbid="movie" defaulttvdbseason="1" tmdbid="1231574">
+  <anime anidbid="18538" tvdbid="movie" defaulttvdbseason="1" tmdbid="1231574" imdbid="tt31788773">
     <name>Suki demo Kirai na Amanojaku</name>
   </anime>
   <anime anidbid="18539" tvdbid="movie" defaulttvdbseason="1" tmdbid="1266540">
@@ -36566,6 +36566,9 @@
   </anime>
   <anime anidbid="19548" tvdbid="467450" defaulttvdbseason="1" tmdbtv="299595" tmdbseason="1">
     <name>Ganglion</name>
+  </anime>
+  <anime anidbid="19583" tvdbid="468582" defaulttvdbseason="1" tmdbtv="262453" tmdbseason="1">
+    <name>Mofa Gongzhu De Xiao Fannao</name>
   </anime>
   <anime anidbid="19691" tvdbid="376751" defaulttvdbseason="5" tmdbtv="98123" tmdbseason="5">
     <name>Xian Wang de Richang Shenghuo Di Wu Ji</name>
