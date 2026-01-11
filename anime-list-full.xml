@@ -34171,6 +34171,9 @@
   <anime anidbid="17304" tvdbid="418665" defaulttvdbseason="1" tmdbtv="196944" tmdbseason="1">
     <name>Watashi no Shiawase na Kekkon</name>
   </anime>
+  <anime anidbid="17305" tvdbid="418666" defaulttvdbseason="1" tmdbtv="196950" tmdbseason="1">
+    <name>Tongari Boushi no Atelier</name>
+  </anime>
   <anime anidbid="17310" tvdbid="movie" defaulttvdbseason="1" tmdbid="1056133">
     <name>Gekijouban City Hunter: Angel Dust</name>
   </anime>
@@ -36621,7 +36624,10 @@
   <anime anidbid="19204" tvdbid="461265" defaulttvdbseason="1" tmdbtv="284442" tmdbseason="1">
     <name>Sozai Saishuka no Isekai Ryokouki</name>
   </anime>
-  <anime anidbid="19208" tvdbid="movie" tmdbid="1432547">
+  <anime anidbid="19206" tvdbid="461374" defaulttvdbseason="1" tmdbtv="283905" tmdbseason="1">
+    <name>Kamiina Botan, Yoeru Sugata wa Yuri no Hana</name>
+  </anime>
+  <anime anidbid="19208" tvdbid="movie" defaulttvdbseason="1" tmdbid="1432547" imdbid="tt36148135">
     <name>All You Need Is Kill</name>
   </anime>
   <anime anidbid="19209" tvdbid="461423" defaulttvdbseason="1" tmdbtv="286291" tmdbseason="1">
@@ -36644,6 +36650,9 @@
   </anime>
   <anime anidbid="19220" tvdbid="movie" tmdbid="1591447" imdbid="tt39195826">
     <name>Girls und Panzer: Motto Love Love Sakusen Desu!</name>
+  </anime>
+  <anime anidbid="19221" tvdbid="movie" defaulttvdbseason="1" tmdbid="1449433" imdbid="tt39123182">
+    <name>Saishuu Gakushou Hibike! Euphonium</name>
   </anime>
   <anime anidbid="19230" tvdbid="461683" defaulttvdbseason="1" tmdbtv="286791" tmdbseason="1">
     <name>Digimon Beatbreak</name>
