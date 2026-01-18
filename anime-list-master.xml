@@ -12232,7 +12232,7 @@
     <name>Tenshi Nanka ja Nai</name>
   </anime>
   <anime anidbid="4087" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0059855">
-    <name>Da Nao Tian Gong</name>
+    <name>Danao Tiangong</name>
   </anime>
   <anime anidbid="4088" tvdbid="79794" defaulttvdbseason="1" episodeoffset="" tmdbtv="42491" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>The Third: Aoi Hitomi no Shoujo</name>
@@ -14293,6 +14293,14 @@
     <name>Naruto Shippuuden</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" tmdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="1" tmdbseason="10" start="197" end="221" offset="-196"/>
+      <mapping anidbseason="1" tmdbseason="11" start="222" end="242" offset="-221"/>
+      <mapping anidbseason="1" tmdbseason="12" start="243" end="275" offset="-242"/>
+      <mapping anidbseason="1" tmdbseason="13" start="276" end="295" offset="-275"/>
+      <mapping anidbseason="1" tmdbseason="17" start="362" end="372" offset="-361"/>
+      <mapping anidbseason="1" tmdbseason="18" start="373" end="393" offset="-372"/>
+      <mapping anidbseason="1" tmdbseason="19" start="394" end="413" offset="-393"/>
+      <mapping anidbseason="1" tmdbseason="20" start="414" end="500" offset="-413"/>
       <mapping anidbseason="1" tvdbseason="1" tmdbseason="1" start="1" end="32" offset="0"/>
       <mapping anidbseason="1" tvdbseason="2" tmdbseason="2" start="33" end="53" offset="-32"/>
       <mapping anidbseason="1" tvdbseason="3" tmdbseason="3" start="54" end="71" offset="-53"/>
@@ -14303,24 +14311,16 @@
       <mapping anidbseason="1" tvdbseason="8" tmdbseason="8" start="152" end="175" offset="-151"/>
       <mapping anidbseason="1" tvdbseason="9" tmdbseason="9" start="176" end="196" offset="-175"/>
       <mapping anidbseason="1" tvdbseason="10" start="197" end="222" offset="-196"/>
-      <mapping anidbseason="1" tmdbseason="10" start="197" end="221" offset="-196"/>
       <mapping anidbseason="1" tvdbseason="11" start="223" end="242" offset="-222"/>
-      <mapping anidbseason="1" tmdbseason="11" start="222" end="242" offset="-221"/>
       <mapping anidbseason="1" tvdbseason="12" start="243" end="260" offset="-242"/>
-      <mapping anidbseason="1" tmdbseason="12" start="243" end="275" offset="-242"/>
       <mapping anidbseason="1" tvdbseason="13" start="261" end="295" offset="-260"/>
-      <mapping anidbseason="1" tmdbseason="13" start="276" end="295" offset="-275"/>
       <mapping anidbseason="1" tvdbseason="14" tmdbseason="14" start="296" end="320" offset="-295"/>
       <mapping anidbseason="1" tvdbseason="15" tmdbseason="15" start="321" end="348" offset="-320"/>
       <mapping anidbseason="1" tvdbseason="16" tmdbseason="16" start="349" end="361" offset="-348"/>
       <mapping anidbseason="1" tvdbseason="17" start="362" end="393" offset="-361"/>
-      <mapping anidbseason="1" tmdbseason="17" start="362" end="372" offset="-361"/>
       <mapping anidbseason="1" tvdbseason="18" start="394" end="413" offset="-393"/>
-      <mapping anidbseason="1" tmdbseason="18" start="373" end="393" offset="-372"/>
       <mapping anidbseason="1" tvdbseason="19" start="414" end="431" offset="-413"/>
-      <mapping anidbseason="1" tmdbseason="19" start="394" end="413" offset="-393"/>
       <mapping anidbseason="1" tvdbseason="20" start="432" end="450" offset="-431"/>
-      <mapping anidbseason="1" tmdbseason="20" start="414" end="500" offset="-413"/>
       <mapping anidbseason="1" tvdbseason="21" start="451" end="458" offset="-450"/>
       <mapping anidbseason="1" tvdbseason="22" start="459" end="500" offset="-458"/>
     </mapping-list>
@@ -30216,7 +30216,7 @@
     <name>Ookami Shoujo to Kuro Ouji: Gishin'anki - Happening Kiss</name>
   </anime>
   <anime anidbid="10920" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Oni Chichi 2: Harvest</name>
+    <name>Oni Chichi 2: Harvest - Tennen Kyonyuu no Hame Utsu Hiyori</name>
   </anime>
   <anime anidbid="10922" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Koi Maguwai</name>
@@ -50871,7 +50871,7 @@
     <name>Nihon e Youkoso Elf-san.</name>
   </anime>
   <anime anidbid="18363" tvdbid="377543" defaulttvdbseason="3" episodeoffset="" tmdbtv="95479" tmdbseason="1" tmdboffset="47" tmdbid="" imdbid="">
-    <name>Jujutsu Kaisen: Shimetsu Kaiyuu</name>
+    <name>Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen</name>
   </anime>
   <anime anidbid="18364" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tunshi Xingkong 3</name>
@@ -52633,7 +52633,7 @@
     <name>Ballpark de Tsukamaete!</name>
   </anime>
   <anime anidbid="18986" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Tensui no Sakuna-hime (2026)</name>
+    <name>Tensui no Sakuna-hime: Kokoro wa Inasaku Nisshi</name>
   </anime>
   <anime anidbid="18988" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Amayo no Tsuki</name>
@@ -53284,7 +53284,7 @@
     <name>Shuumatsu no Walkure III</name>
   </anime>
   <anime anidbid="19213" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Kono Subarashii Sekai ni Shukufuku o! (Zokuhen)</name>
+    <name>Kono Subarashii Sekai ni Shukufuku o! 4</name>
   </anime>
   <anime anidbid="19214" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mahou no Shimai Lulutto Lily</name>
@@ -53296,7 +53296,7 @@
     <name>Disney: Twisted-Wonderland the Animation - Episode of Octavinelle</name>
   </anime>
   <anime anidbid="19217" tvdbid="461466" defaulttvdbseason="1" episodeoffset="" tmdbtv="285291" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
-    <name>Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee</name>
+    <name>Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasanee</name>
   </anime>
   <anime anidbid="19218" tvdbid="461467" defaulttvdbseason="1" episodeoffset="" tmdbtv="286388" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun</name>
@@ -53599,7 +53599,7 @@
     <name>Koushoku no Chuugi Kunoichi Botan</name>
   </anime>
   <anime anidbid="19330" tvdbid="463638" defaulttvdbseason="1" episodeoffset="" tmdbtv="291414" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
-    <name>Android wa Keiken Ninzuu ni Hairimasu ka??</name>
+    <name>Android wa Keiken Ninzuu ni Hairimasuka??</name>
   </anime>
   <anime anidbid="19331" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tsurezure Popipa</name>
@@ -53920,7 +53920,7 @@
     <name>Shinobanai! Crypto Ninja Sakuya San no Maki</name>
   </anime>
   <anime anidbid="19440" tvdbid="465505" defaulttvdbseason="1" episodeoffset="" tmdbtv="295366" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
-    <name>Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita.</name>
+    <name>Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita.</name>
   </anime>
   <anime anidbid="19441" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Baan: Otona no Kyoukai</name>
@@ -54178,7 +54178,7 @@
     <name>Chuldong! Super Wings 2</name>
   </anime>
   <anime anidbid="19530" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tataki Tsubushimasu</name>
+    <name>Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu</name>
   </anime>
   <anime anidbid="19531" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kekkaishi no Ichirinka</name>
@@ -54387,9 +54387,6 @@
   <anime anidbid="19601" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1551201" imdbid="">
     <name>Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?): Next Shine!</name>
   </anime>
-  <anime anidbid="19603" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>4-ju Aein</name>
-  </anime>
   <anime anidbid="19604" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Death Stranding Mosquito</name>
   </anime>
@@ -54505,7 +54502,7 @@
     <name>Little Astro Boy</name>
   </anime>
   <anime anidbid="19643" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>OVA Oshikake! Bakunyuu Gyaru Harem Seikatsu</name>
+    <name>Oshikake! Bakunyuu Gal Harem Seikatsu</name>
   </anime>
   <anime anidbid="19644" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Seifuku wa Kita mama de</name>
@@ -54545,12 +54542,6 @@
   </anime>
   <anime anidbid="19657" tvdbid="469342" defaulttvdbseason="1" episodeoffset="" tmdbtv="308142" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>High School! Kimengumi (2026)</name>
-  </anime>
-  <anime anidbid="19658" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Zhen Dao Ge 3rd Season</name>
-  </anime>
-  <anime anidbid="19659" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Kaiju Ditan Maidali</name>
   </anime>
   <anime anidbid="19660" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gu Wei Nan Ting</name>
@@ -54745,7 +54736,7 @@
     <name>Majutsu o Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru</name>
   </anime>
   <anime anidbid="19727" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>The Monkey King 3D: Uproar in Heaven</name>
+    <name>Danao Tiangong 3D</name>
   </anime>
   <anime anidbid="19728" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kami no Shizuku</name>
@@ -54966,9 +54957,6 @@
   <anime anidbid="19804" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Zhongguo Qi Tan 2</name>
   </anime>
-  <anime anidbid="19805" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Yi Ren Zhixia Season 6</name>
-  </anime>
   <anime anidbid="19806" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Ding Ding Zhan Hou Wang</name>
   </anime>
@@ -54976,6 +54964,105 @@
     <name>Ginga Tokkyuu: Milky Subway Kakuekiteisha Gekijou Yuki</name>
   </anime>
   <anime anidbid="19808" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Yi Ren Zhi Xia 6</name>
+    <name>Yi Ren Zhixia 6</name>
+  </anime>
+  <anime anidbid="19809" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu!</name>
+  </anime>
+  <anime anidbid="19810" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Boukensha License o Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita node Nonbiri Jinsei o Ouka Suru</name>
+  </anime>
+  <anime anidbid="19811" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru 2</name>
+  </anime>
+  <anime anidbid="19812" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Majo no Tabitabi</name>
+  </anime>
+  <anime anidbid="19813" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Chopper's</name>
+  </anime>
+  <anime anidbid="19815" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.</name>
+  </anime>
+  <anime anidbid="19816" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yoroi Shin Den Samurai Troopers 2</name>
+  </anime>
+  <anime anidbid="19819" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Jujutsu Kaisen "Shibuya Jihen Tokubetsu Henshuuban" x "Shimetsu Kaiyuu Senkou Jouei"</name>
+  </anime>
+  <anime anidbid="19820" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kaiju Ditan Mai Dali</name>
+  </anime>
+  <anime anidbid="19821" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Omae wa Mada Gunma o Shiranai: Reiwa Ban</name>
+  </anime>
+  <anime anidbid="19822" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku</name>
+  </anime>
+  <anime anidbid="19823" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Hotaru no Yomeiri</name>
+  </anime>
+  <anime anidbid="19824" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yi Ren Zhi Xia: Xiu Tie Chong Xian</name>
+  </anime>
+  <anime anidbid="19825" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yami Shibai 16</name>
+  </anime>
+  <anime anidbid="19826" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Da Zhu Zai Nian Fan 2</name>
+  </anime>
+  <anime anidbid="19827" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Starlight Project</name>
+  </anime>
+  <anime anidbid="19828" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Zero Rise</name>
+  </anime>
+  <anime anidbid="19829" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Bang Dream! Ave Mujica: Prima Aurora</name>
+  </anime>
+  <anime anidbid="19830" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Detective Jia an</name>
+  </anime>
+  <anime anidbid="19831" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru</name>
+  </anime>
+  <anime anidbid="19832" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Tulip-chan</name>
+  </anime>
+  <anime anidbid="19833" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Into a Landscape</name>
+  </anime>
+  <anime anidbid="19834" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Soukou Kihei Votoms: Haiiro no Hexe</name>
+  </anime>
+  <anime anidbid="19835" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Guangyin Zhi Wai</name>
+  </anime>
+  <anime anidbid="19836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Xianjian Qixiazhuan San</name>
+  </anime>
+  <anime anidbid="19837" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Iwamoto-senpai no Suisen</name>
+  </anime>
+  <anime anidbid="19838" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Toukutsu Ou</name>
+  </anime>
+  <anime anidbid="19839" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu</name>
+  </anime>
+  <anime anidbid="19840" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yi Ren Zhixia: Xiu Tie Chong Xian</name>
+  </anime>
+  <anime anidbid="19841" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Shenkong Bi An</name>
+  </anime>
+  <anime anidbid="19842" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Mother</name>
+  </anime>
+  <anime anidbid="19843" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Gekijouban Medalist</name>
+  </anime>
+  <anime anidbid="19844" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Shibuya Hachi (2025) TV</name>
   </anime>
 </anime-list>
