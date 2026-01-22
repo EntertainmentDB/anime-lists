@@ -35111,6 +35111,9 @@
   <anime anidbid="17918" tvdbid="432624" defaulttvdbseason="1" tmdbtv="248086" tmdbseason="1">
     <name>The Idolmaster Shiny Colors</name>
   </anime>
+  <anime anidbid="17919" tvdbid="465543" defaulttvdbseason="1" tmdbtv="222624" tmdbseason="1">
+    <name>Gintama: 3-nen Z-gumi Ginpachi-sensei</name>
+  </anime>
   <anime anidbid="17920" tvdbid="432613" defaulttvdbseason="1" tmdbtv="222625" tmdbseason="1">
     <name>Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega</name>
   </anime>
@@ -36507,6 +36510,9 @@
   <anime anidbid="19011" tvdbid="457099" defaulttvdbseason="1" tmdbtv="279216" tmdbseason="1">
     <name>Nazotoki wa Dinner no Ato de</name>
   </anime>
+  <anime anidbid="19013" tvdbid="457106" defaulttvdbseason="1" tmdbtv="278059" tmdbseason="1">
+    <name>Shabake (2025)</name>
+  </anime>
   <anime anidbid="19015" tvdbid="457201" defaulttvdbseason="1" tmdbtv="278271" tmdbseason="1">
     <name>Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari</name>
   </anime>
@@ -36533,6 +36539,9 @@
   </anime>
   <anime anidbid="19038" tvdbid="457645" defaulttvdbseason="1" tmdbtv="284445" tmdbseason="1">
     <name>Takopii no Genzai</name>
+  </anime>
+  <anime anidbid="19042" tvdbid="457734" defaulttvdbseason="1" tmdbtv="279993" tmdbseason="1">
+    <name>Necronomico no Cosmic Horror Show</name>
   </anime>
   <anime anidbid="19044" tvdbid="movie" defaulttvdbseason="1" tmdbid="1397163">
     <name>Kidou Senshi Gundam GQuuuuuuX: Beginning</name>
@@ -36629,6 +36638,9 @@
   </anime>
   <anime anidbid="19176" tvdbid="460608" defaulttvdbseason="1" tmdbtv="283935" tmdbseason="1">
     <name>Shuumatsu Touring</name>
+  </anime>
+  <anime anidbid="19177" tvdbid="460607" defaulttvdbseason="1" tmdbtv="285070" tmdbseason="1">
+    <name>Ninja to Gokudou</name>
   </anime>
   <anime anidbid="19181" tvdbid="460693" defaulttvdbseason="1" tmdbtv="284969" tmdbseason="1">
     <name>Hikuidori: Ushuu Boro Tobi-gumi</name>
@@ -36840,6 +36852,9 @@
   <anime anidbid="19601" tvdbid="movie" defaulttvdbseason="0" tmdbid="1551201">
     <name>Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?): Next Shine!</name>
   </anime>
+  <anime anidbid="19633" tvdbid="466376" defaulttvdbseason="1" tmdbtv="297286" tmdbseason="1">
+    <name>Potion, Wagami o Tasukeru</name>
+  </anime>
   <anime anidbid="19657" tvdbid="469342" defaulttvdbseason="1" tmdbtv="308142" tmdbseason="1">
     <name>High School! Kimengumi (2026)</name>
   </anime>
@@ -36854,5 +36869,8 @@
   </anime>
   <anime anidbid="19749" tvdbid="movie" defaulttvdbseason="1" tmdbid="1589925">
     <name>Eiga Himitsu no AiPri: Mankai Buzzlume Live</name>
+  </anime>
+  <anime anidbid="19825" tvdbid="271591" defaulttvdbseason="16" tmdbtv="56559" tmdbseason="16">
+    <name>Yami Shibai 16</name>
   </anime>
 </anime-list>
