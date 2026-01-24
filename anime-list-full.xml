@@ -12525,9 +12525,10 @@
     <name>Pocket Monsters: Diamond and Pearl</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;3-20;4-51;5-52;</mapping>
-      <mapping anidbseason="1" tvdbseason="10">;48-0;49-48;50-49;51-50;52-51;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;48-73;120-72;</mapping>
+      <mapping anidbseason="1" tvdbseason="10">;49-48;50-49;51-50;52-51;</mapping>
       <mapping anidbseason="1" tvdbseason="11" start="53" end="104" offset="-52"/>
-      <mapping anidbseason="1" tvdbseason="12" start="105" end="119" offset="-104">;120-0;</mapping>
+      <mapping anidbseason="1" tvdbseason="12" start="105" end="119" offset="-104"/>
       <mapping anidbseason="1" tvdbseason="12" start="121" end="157" offset="-105"/>
       <mapping anidbseason="1" tvdbseason="13" start="158" end="191" offset="-157"/>
     </mapping-list>
@@ -33444,7 +33445,7 @@
   <anime anidbid="16559" tvdbid="337936" defaulttvdbseason="3" tmdbtv="75865" tmdbseason="3">
     <name>Karakai Jouzu no Takagi-san 3</name>
   </anime>
-  <anime anidbid="16560" tvdbid="movie" defaulttvdbseason="1" tmdbid="938567" imdbid="tt15313532">
+  <anime anidbid="16560" tvdbid="337936 " defaulttvdbseason="0" episodeoffset="1" tmdbid="938567" imdbid="tt15313532">
     <name>Gekijouban Karakai Jouzu no Takagi-san</name>
   </anime>
   <anime anidbid="16561" tvdbid="hentai" defaulttvdbseason="1">
@@ -33464,6 +33465,9 @@
   </anime>
   <anime anidbid="16588" tvdbid="409650" defaulttvdbseason="1" tmdbtv="132917" tmdbseason="1">
     <name>Under Ninja</name>
+  </anime>
+  <anime anidbid="16589" tvdbid="326270" defaulttvdbseason="3" tmdbtv="71194" tmdbseason="3">
+    <name>Quanzhi Gaoshou Di San Ji</name>
   </anime>
   <anime anidbid="16592" tvdbid="380207" defaulttvdbseason="3" tmdbtv="106402" tmdbseason="3">
     <name>Wan Sheng Jie 3</name>
@@ -36290,6 +36294,9 @@
   </anime>
   <anime anidbid="18805" tvdbid="443124" defaulttvdbseason="2" tmdbtv="241138" tmdbseason="2">
     <name>Rising Impact (2024)</name>
+  </anime>
+  <anime anidbid="18807" tvdbid="379282" defaulttvdbseason="0" episodeoffset="1" tmdbtv="105075" tmdbseason="0">
+    <name>Feng Ling Yu Xiu Di Er Ji: Tebie Pian</name>
   </anime>
   <anime anidbid="18809" tvdbid="453022" defaulttvdbseason="1" tmdbtv="261148" tmdbseason="1">
     <name>Sentai Red Isekai de Boukensha ni Naru</name>
