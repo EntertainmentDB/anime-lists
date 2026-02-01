@@ -8290,7 +8290,7 @@
     <name>Aniyome</name>
   </anime>
   <anime anidbid="2508" tvdbid="80009" defaulttvdbseason="1" tmdbtv="43004" tmdbseason="1">
-    <name>Tenchi Muyou! Ryououki: Omatsuri Zen'ya no Yoru!</name>
+    <name>Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1">;1-7;2-7;3-7;</mapping>
     </mapping-list>
@@ -33831,7 +33831,7 @@
     <name>Yaneura no Rudger</name>
   </anime>
   <anime anidbid="17027" tvdbid="402182" defaulttvdbseason="2" tmdbtv="129553" tmdbseason="2">
-    <name>Megaton-kyuu Musashi (2022)</name>
+    <name>Megaton-kyuu Musashi Cross</name>
   </anime>
   <anime anidbid="17028" tvdbid="movie" defaulttvdbseason="1" tmdbid="955666" imdbid="tt16410438">
     <name>Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden</name>
@@ -35365,7 +35365,7 @@
     <name>Natsume Yuujinchou Shichi</name>
   </anime>
   <anime anidbid="18090" tvdbid="402474" defaulttvdbseason="2" tmdbtv="117465" tmdbseason="2">
-    <name>Jigokuraku Dai Ni Ki</name>
+    <name>Jigokuraku (2026)</name>
   </anime>
   <anime anidbid="18093" tvdbid="436779" defaulttvdbseason="1" tmdbtv="229858" tmdbseason="1">
     <name>Fate Strange Fake</name>
