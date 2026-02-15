@@ -7447,7 +7447,7 @@
     <name>Shounen Jack to Mahou Tsukai</name>
   </anime>
   <anime anidbid="2207" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0061797">
-    <name>Hyokkori Hyoutan Shima</name>
+    <name>Hyokkori Hyoutanjima</name>
   </anime>
   <anime anidbid="2208" tvdbid="418709" defaulttvdbseason="0" imdbid="tt0062667">
     <name>Andersen Monogatari</name>
@@ -12348,7 +12348,7 @@
     <name>Sasami: Mahou Shoujo Club 2</name>
   </anime>
   <anime anidbid="4622" tvdbid="79654" defaulttvdbseason="0" tmdbtv="30623" tmdbseason="0" imdbid="tt0831848">
-    <name>Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu</name>
+    <name>Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku no Gyakushuu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>

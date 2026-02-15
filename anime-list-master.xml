@@ -7711,7 +7711,7 @@
     <name>Shounen Jack to Mahou Tsukai</name>
   </anime>
   <anime anidbid="2207" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0061797">
-    <name>Hyokkori Hyoutan Shima</name>
+    <name>Hyokkori Hyoutanjima</name>
   </anime>
   <anime anidbid="2208" tvdbid="418709" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0062667">
     <name>Andersen Monogatari</name>
@@ -13635,7 +13635,7 @@
     <name>Marginal Prince: Gekkeiju no Ouji-tachi</name>
   </anime>
   <anime anidbid="4622" tvdbid="79654" defaulttvdbseason="0" episodeoffset="" tmdbtv="30623" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0831848">
-    <name>Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku Gyakushuu</name>
+    <name>Crayon Shin-chan: Arashi o Yobu Mouretsu! Otona Teikoku no Gyakushuu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;</mapping>
     </mapping-list>
@@ -54037,9 +54037,6 @@
   <anime anidbid="19473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Grow Up Show: Himawari no Circus-dan</name>
   </anime>
-  <anime anidbid="19474" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Backkom2</name>
-  </anime>
   <anime anidbid="19475" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Golden Kamuy: Sapporo Beer Koujou Hen</name>
   </anime>
@@ -55033,9 +55030,6 @@
   <anime anidbid="19825" tvdbid="271591" defaulttvdbseason="16" episodeoffset="" tmdbtv="56559" tmdbseason="16" tmdboffset="" tmdbid="" imdbid="">
     <name>Yami Shibai 16</name>
   </anime>
-  <anime anidbid="19826" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Da Zhu Zai Nian Fan 2</name>
-  </anime>
   <anime anidbid="19827" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Starlight Project</name>
   </anime>
@@ -55062,9 +55056,6 @@
   </anime>
   <anime anidbid="19835" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Guangyin Zhi Wai</name>
-  </anime>
-  <anime anidbid="19836" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Xianjian Qixiazhuan San</name>
   </anime>
   <anime anidbid="19837" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Iwamoto-senpai no Suisen</name>
@@ -55212,5 +55203,29 @@
   </anime>
   <anime anidbid="19885" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Mazinger Z Tai Doctor Hell</name>
+  </anime>
+  <anime anidbid="19886" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Namui BL Manhwa Animation</name>
+  </anime>
+  <anime anidbid="19887" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Zhen Dao Ge 3rd Season</name>
+  </anime>
+  <anime anidbid="19888" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Long Po Jiutian</name>
+  </anime>
+  <anime anidbid="19889" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Ushiro no Shoumen Kamui-san</name>
+  </anime>
+  <anime anidbid="19890" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Doko yori mo Tooi Basho ni Iru Kimi e</name>
+  </anime>
+  <anime anidbid="19891" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Namidaame to Serenade</name>
+  </anime>
+  <anime anidbid="19892" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Luca</name>
+  </anime>
+  <anime anidbid="19893" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Da Zhu Zai Nian Fan 2</name>
   </anime>
 </anime-list>
