@@ -36082,6 +36082,9 @@
   <anime anidbid="18615" tvdbid="449843" defaulttvdbseason="1" tmdbtv="253811" tmdbseason="1">
     <name>Tougen Anki</name>
   </anime>
+  <anime anidbid="18618" tvdbid="449883" defaulttvdbseason="1" tmdbtv="291403" tmdbseason="1">
+    <name>Awajima Hyakkei</name>
+  </anime>
   <anime anidbid="18620" tvdbid="449884" defaulttvdbseason="1" tmdbtv="261298" tmdbseason="1">
     <name>Izure Saikyou no Renkinjutsushi?</name>
   </anime>
@@ -36895,14 +36898,41 @@
   <anime anidbid="19657" tvdbid="469342" defaulttvdbseason="1" tmdbtv="308142" tmdbseason="1">
     <name>High School! Kimengumi (2026)</name>
   </anime>
+  <anime anidbid="19690" tvdbid="470406" defaulttvdbseason="1" tmdbtv="312849" tmdbseason="1">
+    <name>Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita</name>
+  </anime>
   <anime anidbid="19691" tvdbid="376751" defaulttvdbseason="5" tmdbtv="98123" tmdbseason="5">
     <name>Xian Wang de Richang Shenghuo Di Wu Ji</name>
+  </anime>
+  <anime anidbid="19699" tvdbid="469985" defaulttvdbseason="1" tmdbtv="304820" tmdbseason="1">
+    <name>Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken</name>
   </anime>
   <anime anidbid="19701" tvdbid="movie" defaulttvdbseason="1" tmdbid="1575337">
     <name>Chou Kaguya-hime!</name>
   </anime>
+  <anime anidbid="19713" tvdbid="470270" defaulttvdbseason="1" tmdbtv="305329" tmdbseason="1">
+    <name>Needy Girl Overdose</name>
+  </anime>
+  <anime anidbid="19719" tvdbid="470401" defaulttvdbseason="1">
+    <name>Kyoukai no Melody</name>
+  </anime>
   <anime anidbid="19720" tvdbid="470520" defaulttvdbseason="1" tmdbtv="309974" tmdbseason="1">
     <name>Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita.</name>
+  </anime>
+  <anime anidbid="19722" tvdbid="470519" defaulttvdbseason="1" tmdbtv="312293" tmdbseason="1">
+    <name>Mata Korosarete Shimatta no Desu ne, Tantei-sama</name>
+  </anime>
+  <anime anidbid="19725" tvdbid="466523" defaulttvdbseason="1">
+    <name>Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu</name>
+  </anime>
+  <anime anidbid="19726" tvdbid="470611" defaulttvdbseason="1" tmdbtv="306120" tmdbseason="1">
+    <name>Majutsu o Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru</name>
+  </anime>
+  <anime anidbid="19730" tvdbid="471300" defaulttvdbseason="1">
+    <name>Marika-chan no Koukando wa Bukkowarete Iru</name>
+  </anime>
+  <anime anidbid="19731" tvdbid="470719" defaulttvdbseason="1" tmdbtv="306231" tmdbseason="1">
+    <name>Kakunaru Ue wa</name>
   </anime>
   <anime anidbid="19736" tvdbid="470864" defaulttvdbseason="1" tmdbtv="306790" tmdbseason="1">
     <name>Tadaima, Ojama Saremasu!</name>
@@ -36916,8 +36946,41 @@
   <anime anidbid="19743" tvdbid="470980" defaulttvdbseason="1" tmdbtv="306762" tmdbseason="1">
     <name>Prism Rondo</name>
   </anime>
+  <anime anidbid="19744" tvdbid="471000" defaulttvdbseason="1">
+    <name>Haibara-kun no Tsuyokute Seishun New Game</name>
+  </anime>
   <anime anidbid="19749" tvdbid="movie" defaulttvdbseason="1" tmdbid="1589925">
     <name>Eiga Himitsu no AiPri: Mankai Buzzlume Live</name>
+  </anime>
+  <anime anidbid="19751" tvdbid="471128" defaulttvdbseason="1">
+    <name>Demons' Crest</name>
+  </anime>
+  <anime anidbid="19752" tvdbid="471848" defaulttvdbseason="1">
+    <name>World Trigger Reboot</name>
+  </anime>
+  <anime anidbid="19754" tvdbid="471316" defaulttvdbseason="1" tmdbtv="307903" tmdbseason="1">
+    <name>Kyoufu Collector</name>
+  </anime>
+  <anime anidbid="19755" tvdbid="471296" defaulttvdbseason="1" tmdbtv="307585" tmdbseason="1">
+    <name>Uchi no Otouto-domo ga Sumimasen</name>
+  </anime>
+  <anime anidbid="19757" tvdbid="471756" defaulttvdbseason="1" tmdbtv="307705" tmdbseason="1">
+    <name>Code Geass: Hoshi Oi no Aspar</name>
+  </anime>
+  <anime anidbid="19760" tvdbid="471495" defaulttvdbseason="1">
+    <name>Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!</name>
+  </anime>
+  <anime anidbid="19764" tvdbid="471497" defaulttvdbseason="1" tmdbtv="312507" tmdbseason="1">
+    <name>Reiwa no Dara-san</name>
+  </anime>
+  <anime anidbid="19768" tvdbid="471657" defaulttvdbseason="1" tmdbtv="308403" tmdbseason="1">
+    <name>Tetsunabe no Jan!</name>
+  </anime>
+  <anime anidbid="19773" tvdbid="471828" defaulttvdbseason="1">
+    <name>Mr. Clice</name>
+  </anime>
+  <anime anidbid="19782" tvdbid="471878" defaulttvdbseason="1" tmdbtv="308874" tmdbseason="1">
+    <name>Otome Kaijuu Caramelise</name>
   </anime>
   <anime anidbid="19791" tvdbid="471946" defaulttvdbseason="1" tmdbtv="309176" tmdbseason="1">
     <name>Jirai Nandesuka? Chihara-san</name>
