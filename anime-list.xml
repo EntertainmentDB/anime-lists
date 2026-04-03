@@ -35607,8 +35607,14 @@
   <anime anidbid="18234" tvdbid="418904" defaulttvdbseason="2" tmdbtv="197368" tmdbseason="2">
     <name>Ao no Orchestra Season 2</name>
   </anime>
+  <anime anidbid="18235" tvdbid="414221" defaulttvdbseason="2" tmdbtv="154743" tmdbseason="2">
+    <name>Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2</name>
+  </anime>
   <anime anidbid="18238" tvdbid="440820" defaulttvdbseason="1" tmdbtv="236994" tmdbseason="1">
     <name>Dragon Ball Daima</name>
+  </anime>
+  <anime anidbid="18241" tvdbid="423653" defaulttvdbseason="0" tmdbtv="208493" tmdbseason="0">
+    <name>Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)</name>
   </anime>
   <anime anidbid="18242" tvdbid="440861" defaulttvdbseason="1" tmdbtv="284448" tmdbseason="1">
     <name>Koujo Denka no Kateikyoushi</name>
@@ -35801,6 +35807,9 @@
   </anime>
   <anime anidbid="18391" tvdbid="413480" defaulttvdbseason="2" tmdbtv="146339" tmdbseason="2">
     <name>Dawang Raoming 2</name>
+  </anime>
+  <anime anidbid="18397" tvdbid="370761" defaulttvdbseason="2" tmdbtv="94404" tmdbseason="2">
+    <name>Dorohedoro (2026)</name>
   </anime>
   <anime anidbid="18402" tvdbid="271591" defaulttvdbseason="12" tmdbtv="56559" tmdbseason="12">
     <name>Yami Shibai 12</name>
@@ -36267,6 +36276,9 @@
   </anime>
   <anime anidbid="18770" tvdbid="452466" defaulttvdbseason="1" tmdbtv="262141" tmdbseason="1">
     <name>Kono Kaisha ni Suki na Hito ga Imasu</name>
+  </anime>
+  <anime anidbid="18772" tvdbid="452575" defaulttvdbseason="1" tmdbtv="259819" tmdbseason="1">
+    <name>Niwatori Fighter</name>
   </anime>
   <anime anidbid="18773" tvdbid="400585" defaulttvdbseason="2" tmdbtv="122587" tmdbseason="2">
     <name>Cuckoo no Iinazuke Season 2</name>
@@ -37132,6 +37144,9 @@
   <anime anidbid="19579" tvdbid="468186" defaulttvdbseason="1" tmdbtv="300837" tmdbseason="1">
     <name>Fuun kara no Saikyou Otoko</name>
   </anime>
+  <anime anidbid="19580" tvdbid="423121" defaulttvdbseason="3" tmdbtv="207564" tmdbseason="3">
+    <name>Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season</name>
+  </anime>
   <anime anidbid="19583" tvdbid="468582" defaulttvdbseason="1" tmdbtv="262453" tmdbseason="1">
     <name>Mofa Gongzhu De Xiao Fannao</name>
   </anime>
@@ -37146,6 +37161,9 @@
   </anime>
   <anime anidbid="19601" tvdbid="movie" defaulttvdbseason="0" tmdbid="1551201">
     <name>Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (*Muri ja Nakatta!?): Next Shine!</name>
+  </anime>
+  <anime anidbid="19614" tvdbid="355774" defaulttvdbseason="4" episodeoffset="24" tmdbtv="86031" tmdbseason="4" tmdboffset="24">
+    <name>Dr. Stone: Science Future (2026)</name>
   </anime>
   <anime anidbid="19619" tvdbid="468580" defaulttvdbseason="1" tmdbtv="299743" tmdbseason="1">
     <name>Heika Watashi o Wasurete Kudasai</name>
