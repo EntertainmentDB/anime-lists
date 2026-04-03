@@ -35361,7 +35361,7 @@
   <anime anidbid="18083" tvdbid="427074" defaulttvdbseason="2" tmdbtv="214264" tmdbseason="2">
     <name>Kizuna no Allele (2023)</name>
   </anime>
-  <anime anidbid="18086" tvdbid="421069" defaulttvdbseason="2" tmdbtv="203737" tmdbseason="2">
+  <anime anidbid="18086" tvdbid="421069" defaulttvdbseason="2" tmdbtv="203737" tmdbseason="1" tmdboffset="11">
     <name>"Oshi no Ko" (2024)</name>
   </anime>
   <anime anidbid="18088" tvdbid="421737" defaulttvdbseason="2" tmdbtv="204832" tmdbseason="2">
@@ -36634,7 +36634,7 @@
   <anime anidbid="19064" tvdbid="458008" defaulttvdbseason="1">
     <name>Arcanadea</name>
   </anime>
-  <anime anidbid="19067" tvdbid="451479" defaulttvdbseason="2" tmdbtv="259140" tmdbseason="2">
+  <anime anidbid="19067" tvdbid="451479" defaulttvdbseason="2" tmdbtv="259140" tmdbseason="1" tmdboffset="12">
     <name>Ranma 1/2 (2025)</name>
   </anime>
   <anime anidbid="19069" tvdbid="458058" defaulttvdbseason="1" tmdbtv="280110" tmdbseason="1">
@@ -37425,5 +37425,20 @@
   </anime>
   <anime anidbid="19912" tvdbid="474691" defaulttvdbseason="1">
     <name>Dandelion</name>
+  </anime>
+  <anime anidbid="19967" tvdbid="461472" defaulttvdbseason="2" tmdbtv="285933" tmdbseason="2">
+    <name>Mayonaka Heart Tune 2</name>
+  </anime>
+  <anime anidbid="19969" tvdbid="421069" defaulttvdbseason="4" tmdbtv="203737" tmdbseason="1" tmdboffset="35">
+    <name>"Oshi no Ko" Final Season</name>
+  </anime>
+  <anime anidbid="19972" tvdbid="451479" defaulttvdbseason="3" tmdbtv="259140" tmdbseason="1" tmdboffset="24">
+    <name>Ranma 1/2 (2026)</name>
+  </anime>
+  <anime anidbid="19977" tvdbid="424536" defaulttvdbseason="3" tmdbtv="209867" tmdbseason="1" tmdboffset="38">
+    <name>Sousou no Frieren (2027)</name>
+  </anime>
+  <anime anidbid="19981" tvdbid="473974" defaulttvdbseason="1">
+    <name>Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu</name>
   </anime>
 </anime-list>
