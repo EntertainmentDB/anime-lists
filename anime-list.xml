@@ -31230,7 +31230,7 @@
   <anime anidbid="14791" tvdbid="346931" defaulttvdbseason="2" tmdbtv="80671" tmdbseason="2">
     <name>Hataraku Saibou!!</name>
   </anime>
-  <anime anidbid="14792" tvdbid="305089" defaulttvdbseason="2" tmdbtv="65942" tmdbseason="2">
+  <anime anidbid="14792" tvdbid="305089" defaulttvdbseason="2" tmdbtv="65942" tmdbseason="1" tmdboffset="26">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2020)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="29"/>
@@ -32315,7 +32315,7 @@
   <anime anidbid="15587" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt12441478">
     <name>Aya to Majo</name>
   </anime>
-  <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="13" tmdbtv="65942" tmdbseason="2" tmdboffset="13">
+  <anime anidbid="15593" tvdbid="305089" defaulttvdbseason="2" episodeoffset="13" tmdbtv="65942" tmdbseason="1" tmdboffset="38">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2021)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="12" offset="42"/>
@@ -35172,7 +35172,7 @@
   <anime anidbid="17946" tvdbid="436124" defaulttvdbseason="1" tmdbtv="228663" tmdbseason="1">
     <name>Horimiya: Piece</name>
   </anime>
-  <anime anidbid="17947" tvdbid="305089" defaulttvdbseason="3" tmdbtv="65942" tmdbseason="3">
+  <anime anidbid="17947" tvdbid="305089" defaulttvdbseason="3" tmdbtv="65942" tmdbseason="1" tmdboffset="50">
     <name>Re:Zero kara Hajimeru Isekai Seikatsu (2024)</name>
   </anime>
   <anime anidbid="17948" tvdbid="432838" defaulttvdbseason="1" tmdbtv="240399" tmdbseason="1">
@@ -35567,6 +35567,9 @@
   </anime>
   <anime anidbid="18206" tvdbid="424779" defaulttvdbseason="1" episodeoffset="12" tmdbtv="210181" tmdbseason="1" tmdboffset="12">
     <name>Synduality Noir (2024)</name>
+  </anime>
+  <anime anidbid="18209" tvdbid="440057" defaulttvdbseason="1" tmdbtv="290019" tmdbseason="1">
+    <name>Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta</name>
   </anime>
   <anime anidbid="18213" tvdbid="398555" defaulttvdbseason="3" tmdbtv="117992" tmdbseason="3">
     <name>Shinigami Bocchan to Kuro Maid (2024)</name>
@@ -36214,6 +36217,9 @@
   <anime anidbid="18719" tvdbid="451682" defaulttvdbseason="1" tmdbtv="258055" tmdbseason="1">
     <name>Aru Majo ga Shinu Made</name>
   </anime>
+  <anime anidbid="18720" tvdbid="movie" defaulttvdbseason="0" tmdbid="1310387" imdbid="tt38652027">
+    <name>Gekijouban Mahouka Koukou no Rettousei: Yotsuba Keishou Hen</name>
+  </anime>
   <anime anidbid="18721" tvdbid="434358" defaulttvdbseason="2" tmdbtv="243140" tmdbseason="2">
     <name>Ooi! Tonbo (2024)</name>
   </anime>
@@ -36472,6 +36478,9 @@
   <anime anidbid="18898" tvdbid="455164" defaulttvdbseason="1" tmdbtv="273467" tmdbseason="1">
     <name>Hime Kishi wa Barbaroi no Yome</name>
   </anime>
+  <anime anidbid="18900" tvdbid="424019" defaulttvdbseason="2" tmdbtv="216467" tmdbseason="2">
+    <name>Yozakura-san Chi no Daisakusen (2026)</name>
+  </anime>
   <anime anidbid="18901" tvdbid="421069" defaulttvdbseason="3" tmdbtv="203737" tmdbseason="1" tmdboffset="24">
     <name>"Oshi no Ko" (2026)</name>
   </anime>
@@ -36594,6 +36603,9 @@
   </anime>
   <anime anidbid="19022" tvdbid="457372" defaulttvdbseason="1" tmdbtv="278604" tmdbseason="1">
     <name>Gnosia</name>
+  </anime>
+  <anime anidbid="19024" tvdbid="457471" defaulttvdbseason="1" tmdbtv="284447" tmdbseason="1">
+    <name>Yowayowa Sensei</name>
   </anime>
   <anime anidbid="19025" tvdbid="movie" defaulttvdbseason="1" tmdbid="1396965">
     <name>Meitantei Conan: Sekigan no Flashback</name>
@@ -36844,6 +36856,9 @@
   <anime anidbid="19237" tvdbid="461832" defaulttvdbseason="1" tmdbtv="287242" tmdbseason="1">
     <name>Ma no Mono-tachi wa Kuwadateru</name>
   </anime>
+  <anime anidbid="19242" tvdbid="305089" defaulttvdbseason="1" tmdbtv="65942" tmdbseason="1" tmdboffset="66">
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu (2026)</name>
+  </anime>
   <anime anidbid="19248" tvdbid="355774" defaulttvdbseason="4" episodeoffset="12" tmdbtv="86031" tmdbseason="4" tmdboffset="12">
     <name>Dr. Stone: Science Future (2025)</name>
   </anime>
@@ -37069,8 +37084,14 @@
   <anime anidbid="19501" tvdbid="466237" defaulttvdbseason="1" tmdbtv="296851" tmdbseason="1">
     <name>Si-Vis: The Sound of Heroes</name>
   </anime>
+  <anime anidbid="19506" tvdbid="418367" defaulttvdbseason="2" tmdbtv="196285" tmdbseason="2">
+    <name>Isekai Nonbiri Nouka 2</name>
+  </anime>
   <anime anidbid="19507" tvdbid="456099" defaulttvdbseason="1" tmdbtv="284495" tmdbseason="1">
     <name>Isekai no Sata wa Shachiku Shidai</name>
+  </anime>
+  <anime anidbid="19508" tvdbid="466439" defaulttvdbseason="1" tmdbtv="80867" tmdbseason="3">
+    <name>Iya na Kao Sarenagara Opantsu Misete Moraitai Returns</name>
   </anime>
   <anime anidbid="19512" tvdbid="465498" defaulttvdbseason="1" tmdbtv="295483" tmdbseason="1">
     <name>Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru</name>
@@ -37270,7 +37291,7 @@
   <anime anidbid="19728" tvdbid="470659" defaulttvdbseason="1" tmdbtv="306121" tmdbseason="1">
     <name>Kami no Shizuku</name>
   </anime>
-  <anime anidbid="19730" tvdbid="471300" defaulttvdbseason="1">
+  <anime anidbid="19730" tvdbid="471300" defaulttvdbseason="1" tmdbtv="315816" tmdbseason="1">
     <name>Marika-chan no Koukando wa Bukkowarete Iru</name>
   </anime>
   <anime anidbid="19731" tvdbid="470719" defaulttvdbseason="1" tmdbtv="306231" tmdbseason="1">
@@ -37416,6 +37437,9 @@
   </anime>
   <anime anidbid="19878" tvdbid="473560" defaulttvdbseason="1" tmdbtv="313215" tmdbseason="1">
     <name>Mairimashita! Iruma-kun: If Episode of Mafia</name>
+  </anime>
+  <anime anidbid="19879" tvdbid="473930" defaulttvdbseason="1" tmdbtv="316427" tmdbseason="1">
+    <name>Ingoku Danchi</name>
   </anime>
   <anime anidbid="19880" tvdbid="473648" defaulttvdbseason="1" tmdbtv="313394" tmdbseason="1">
     <name>Yuukyuu no Gusha Asley no, Kenja no Susume</name>
