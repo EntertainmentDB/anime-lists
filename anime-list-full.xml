@@ -37641,4 +37641,7 @@
   <anime anidbid="20010" tvdbid="476804" defaulttvdbseason="1" tmdbtv="285994" tmdbseason="1">
     <name>Majo to Youhei</name>
   </anime>
+  <anime anidbid="20039" tvdbid="305074" defaulttvdbseason="0" episodeoffset="22" tmdbtv="65930" tmdbseason="0" tmdboffset="17">
+    <name>Boku no Hero Academia: More</name>
+  </anime>
 </anime-list>
