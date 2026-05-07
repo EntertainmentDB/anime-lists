@@ -53636,6 +53636,9 @@
   </anime>
   <anime anidbid="19330" tvdbid="463638" defaulttvdbseason="1" episodeoffset="" tmdbtv="291414" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Android wa Keiken Ninzuu ni Hairimasuka??</name>
+    <mapping-list>
+      <mapping anidbseason="0" tmdbseason="1">;1-9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="19331" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tsurezure Popipa</name>
