@@ -37049,6 +37049,9 @@
   </anime>
   <anime anidbid="19330" tvdbid="463638" defaulttvdbseason="1" tmdbtv="291414" tmdbseason="1">
     <name>Android wa Keiken Ninzuu ni Hairimasuka??</name>
+    <mapping-list>
+      <mapping anidbseason="0" tmdbseason="1">;1-9;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="19338" tvdbid="movie" tmdbid="1474048" imdbid="tt36757407">
     <name>Lupin the IIIrd: Zenigata to Futari no Lupin</name>
