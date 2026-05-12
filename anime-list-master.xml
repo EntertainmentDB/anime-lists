@@ -1814,7 +1814,7 @@
   <anime anidbid="384" tvdbid="75113" defaulttvdbseason="0" episodeoffset="7" tmdbtv="34163" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="">
     <name>Urusei Yatsura (1985)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-8;3-9;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-8;3-9;12-20;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>Kitty Film</studio>
