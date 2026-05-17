@@ -1759,11 +1759,11 @@
   <anime anidbid="377" tvdbid="75113" defaulttvdbseason="a" tmdbtv="34163" tmdbseason="1">
     <name>Urusei Yatsura</name>
     <mapping-list>
+      <mapping anidbseason="1" tmdbseason="1" offset="23">;1-1;1-2;2-3;2-4;3-5;3-6;4-7;4-8;5-9;5-10;6-11;6-12;7-13;7-14;8-15;8-16;9-17;9-18;10-19;10-20;11-21;11-22;12-23;12-24;13-25;13-26;14-27;14-28;15-29;15-30;16-31;16-32;17-33;17-34;18-35;18-36;19-37;19-38;20-39;20-40;21-41;21-42;22-43;22-44;23-45;46-70;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="54"/>
       <mapping anidbseason="1" tvdbseason="2" start="55" end="106" offset="-54"/>
       <mapping anidbseason="1" tvdbseason="3" start="107" end="149" offset="-106"/>
       <mapping anidbseason="1" tvdbseason="4" start="150" end="195" offset="-149"/>
-      <mapping anidbseason="1" tmdbseason="1" offset="23">;1-1;1-2;2-3;2-4;3-5;3-6;4-7;4-8;5-9;5-10;6-11;6-12;7-13;7-14;8-15;8-16;9-17;9-18;10-19;10-20;11-21;11-22;12-23;12-24;13-25;13-26;14-27;14-28;15-29;15-30;16-31;16-32;17-33;17-34;18-35;18-36;19-37;19-38;20-39;20-40;21-41;21-42;22-43;22-44;23-45;46-70;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="378" tvdbid="75113" defaulttvdbseason="0" tmdbid="150023" imdbid="tt0086520">
@@ -27123,7 +27123,7 @@
     <name>Shimajirou to Ehon no Kuni</name>
   </anime>
   <anime anidbid="11758" tvdbid="300835" defaulttvdbseason="0" episodeoffset="3" tmdbtv="65292" tmdbseason="0" tmdboffset="3">
-    <name>Ajin OAD</name>
+    <name>Ajin (OAD)</name>
   </anime>
   <anime anidbid="11759" tvdbid="hentai">
     <name>Secret Journey</name>
