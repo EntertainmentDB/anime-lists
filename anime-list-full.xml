@@ -568,12 +568,8 @@
       <studio>Studio Pierrot</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1" imdbid="tt0370754">
+  <anime anidbid="104" tvdbid="OVA" tmdbid="37910" imdbid="tt0370754">
     <name>Hoshi no Koe</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
-    </mapping-list>
     <supplemental-info>
       <studio>CoMix Wave</studio>
     </supplemental-info>
@@ -3146,7 +3142,7 @@
   <anime anidbid="749" tvdbid="83309" defaulttvdbseason="1" tmdbtv="45610" tmdbseason="1">
     <name>Devilman Lady</name>
   </anime>
-  <anime anidbid="750" tvdbid="78855" defaulttvdbseason="1">
+  <anime anidbid="750" tvdbid="82830" defaulttvdbseason="1" tmdbtv="12483" tmdbseason="1">
     <name>Yami no Matsuei</name>
   </anime>
   <anime anidbid="751" tvdbid="72977" defaulttvdbseason="1" tmdbtv="20177" tmdbseason="1">
