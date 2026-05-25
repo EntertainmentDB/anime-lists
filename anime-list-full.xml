@@ -37674,6 +37674,9 @@
   <anime anidbid="19981" tvdbid="473974" defaulttvdbseason="1">
     <name>Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu</name>
   </anime>
+  <anime anidbid="19983" tvdbid="457078" defaulttvdbseason="2" tmdbtv="278043" tmdbseason="2">
+    <name>Seihantai na Kimi to Boku (2026)</name>
+  </anime>
   <anime anidbid="19993" tvdbid="453992" defaulttvdbseason="0">
     <name>Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach</name>
   </anime>
@@ -37683,7 +37686,22 @@
   <anime anidbid="20010" tvdbid="476804" defaulttvdbseason="1" tmdbtv="285994" tmdbseason="1">
     <name>Majo to Youhei</name>
   </anime>
+  <anime anidbid="20027" tvdbid="457476" defaulttvdbseason="1" tmdbtv="320905" tmdbseason="1">
+    <name>Kagurabachi</name>
+  </anime>
+  <anime anidbid="20029" tvdbid="477349" defaulttvdbseason="1" tmdbtv="321042" tmdbseason="1">
+    <name>Hokuhokusei ni Kumori to Yuke</name>
+  </anime>
+  <anime anidbid="20035" tvdbid="477424" defaulttvdbseason="1" tmdbtv="321518" tmdbseason="1">
+    <name>Sekai Saikyou no Majo, Hajimemashita</name>
+  </anime>
   <anime anidbid="20039" tvdbid="305074" defaulttvdbseason="0" episodeoffset="22" tmdbtv="65930" tmdbseason="0" tmdboffset="17">
     <name>Boku no Hero Academia: More</name>
+  </anime>
+  <anime anidbid="20060" tvdbid="478148" defaulttvdbseason="1" tmdbtv="323056" tmdbseason="1">
+    <name>Omae, Tanuki ni Naranee ka?</name>
+  </anime>
+  <anime anidbid="20063" tvdbid="478263" defaulttvdbseason="1" tmdbtv="323263" tmdbseason="1">
+    <name>Gekkakoku Kiiden</name>
   </anime>
 </anime-list>
