@@ -37686,6 +37686,12 @@
   <anime anidbid="20010" tvdbid="476804" defaulttvdbseason="1" tmdbtv="285994" tmdbseason="1">
     <name>Majo to Youhei</name>
   </anime>
+  <anime anidbid="20020" tvdbid="477053" defaulttvdbseason="1" tmdbtv="320589" tmdbseason="1">
+    <name>Arafoo Kenja no Isekai Seikatsu Nikki</name>
+  </anime>
+  <anime anidbid="20022" tvdbid="477112" defaulttvdbseason="1" tmdbtv="321505" tmdbseason="1">
+    <name>Megane, Tokidoki, Yankee-kun</name>
+  </anime>
   <anime anidbid="20027" tvdbid="457476" defaulttvdbseason="1" tmdbtv="320905" tmdbseason="1">
     <name>Kagurabachi</name>
   </anime>
@@ -37703,5 +37709,11 @@
   </anime>
   <anime anidbid="20063" tvdbid="478263" defaulttvdbseason="1" tmdbtv="323263" tmdbseason="1">
     <name>Gekkakoku Kiiden</name>
+  </anime>
+  <anime anidbid="20074" tvdbid="478668" defaulttvdbseason="1" tmdbtv="324326" tmdbseason="1">
+    <name>Marronnier Oukoku no Shichinin no Kishi</name>
+  </anime>
+  <anime anidbid="20084" tvdbid="478865" defaulttvdbseason="1" tmdbtv="324862" tmdbseason="1">
+    <name>Juuheisou-gata Joshikousei</name>
   </anime>
 </anime-list>
