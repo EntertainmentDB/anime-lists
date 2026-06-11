@@ -21045,7 +21045,7 @@
   <anime anidbid="8660" tvdbid="254653" defaulttvdbseason="1" tmdbtv="45950" tmdbseason="1">
     <name>High School DxD</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;3-4;4-5;5-6;6-7;7-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" tmdbseason="0" start="1" end="7" offset="1">;7-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8661" tvdbid="252808" defaulttvdbseason="1" tmdbtv="42140" tmdbseason="1">
@@ -22839,7 +22839,8 @@
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2" tmdbtv="45950" tmdbseason="2">
     <name>High School DxD New</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-19;1-20;1-21;1-22;1-23;1-24;</mapping>
+      <mapping anidbseason="0" tmdbseason="0">;1-10;10-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9410" tvdbid="194951" defaulttvdbseason="0" tmdbtv="37101" tmdbseason="0">
@@ -25418,7 +25419,10 @@
   <anime anidbid="10691" tvdbid="254653" defaulttvdbseason="3" tmdbtv="45950" tmdbseason="3">
     <name>High School DxD Born</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-11;2-12;3-13;4-14;5-16;6-17;</mapping>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="10"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="6" offset="11"/>
+      <mapping anidbseason="0" tmdbseason="0" start="1" end="4" offset="11"/>
+      <mapping anidbseason="0" tmdbseason="0" start="5" end="6" offset="12"/>
     </mapping-list>
   </anime>
   <anime anidbid="10692" tvdbid="284169" defaulttvdbseason="1" tmdbtv="64831" tmdbseason="1">
@@ -26410,7 +26414,7 @@
   <anime anidbid="11183" tvdbid="movie" imdbid="tt0422569">
     <name>Katsura Hime</name>
   </anime>
-  <anime anidbid="11184" tvdbid="254653" defaulttvdbseason="0" episodeoffset="9" tmdbtv="45950" tmdbseason="0" tmdboffset="9">
+  <anime anidbid="11184" tvdbid="254653" defaulttvdbseason="0" episodeoffset="9" tmdbtv="45950" tmdbseason="0" tmdboffset="10">
     <name>High School DxD New: Teishi Kyoushitsu no Vampire - Oppai, Tsutsumimasu!</name>
   </anime>
   <anime anidbid="11185" tvdbid="movie">
@@ -27270,7 +27274,7 @@
   <anime anidbid="11843" tvdbid="312723" defaulttvdbseason="2" tmdbtv="66569" tmdbseason="2">
     <name>Bonobono (2016)</name>
   </anime>
-  <anime anidbid="11844" tvdbid="254653" defaulttvdbseason="0" episodeoffset="14" tmdbtv="45950" tmdbseason="0" tmdboffset="14">
+  <anime anidbid="11844" tvdbid="254653" defaulttvdbseason="0" episodeoffset="14" tmdbtv="45950" tmdbseason="0" tmdboffset="15">
     <name>High School DxD Born: Yomigaeranai Fushichou</name>
   </anime>
   <anime anidbid="11846" tvdbid="310197" defaulttvdbseason="1" tmdbtv="67359" tmdbseason="1">
