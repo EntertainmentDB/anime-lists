@@ -22839,8 +22839,8 @@
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2" tmdbtv="45950" tmdbseason="2">
     <name>High School DxD New</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-19;1-20;1-21;1-22;1-23;1-24;</mapping>
       <mapping anidbseason="0" tmdbseason="0">;1-10;10-11;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-19;1-20;1-21;1-22;1-23;1-24;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9410" tvdbid="194951" defaulttvdbseason="0" tmdbtv="37101" tmdbseason="0">
@@ -25419,10 +25419,10 @@
   <anime anidbid="10691" tvdbid="254653" defaulttvdbseason="3" tmdbtv="45950" tmdbseason="3">
     <name>High School DxD Born</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="10"/>
-      <mapping anidbseason="0" tvdbseason="0" start="5" end="6" offset="11"/>
       <mapping anidbseason="0" tmdbseason="0" start="1" end="4" offset="11"/>
       <mapping anidbseason="0" tmdbseason="0" start="5" end="6" offset="12"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="10"/>
+      <mapping anidbseason="0" tvdbseason="0" start="5" end="6" offset="11"/>
     </mapping-list>
   </anime>
   <anime anidbid="10692" tvdbid="284169" defaulttvdbseason="1" tmdbtv="64831" tmdbseason="1">
@@ -37456,7 +37456,7 @@
     <name>Kyoukai no Melody</name>
   </anime>
   <anime anidbid="19720" tvdbid="470520" defaulttvdbseason="1" tmdbtv="309974" tmdbseason="1">
-    <name>Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita.</name>
+    <name>Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita.</name>
   </anime>
   <anime anidbid="19722" tvdbid="470519" defaulttvdbseason="1" tmdbtv="312293" tmdbseason="1">
     <name>Mata Korosarete Shimatta no Desu ne, Tantei-sama</name>
