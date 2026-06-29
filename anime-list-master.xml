@@ -8254,7 +8254,7 @@
   <anime anidbid="2368" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Ariel Visual</name>
   </anime>
-  <anime anidbid="2369" tvdbid="74796" defaulttvdbseason="a" episodeoffset="" tmdbtv="30984" tmdbseason="a" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="2369" tvdbid="74796" defaulttvdbseason="a" episodeoffset="" tmdbtv="30984" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Bleach</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;2-99;3-2;4-0;</mapping>
@@ -13359,7 +13359,7 @@
   <anime anidbid="4514" tvdbid="music video" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Clamp in Wonderland 2 1995-2006</name>
   </anime>
-  <anime anidbid="4515" tvdbid="74796" defaulttvdbseason="0" episodeoffset="2" tmdbtv="30984" tmdbseason="0" tmdboffset="2" tmdbid="" imdbid="tt1105263">
+  <anime anidbid="4515" tvdbid="74796" defaulttvdbseason="0" episodeoffset="2" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="15575" imdbid="tt1105263">
     <name>Gekijouban Bleach: Memories of Nobody</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -15551,7 +15551,7 @@
   <anime anidbid="5351" tvdbid="98121" defaulttvdbseason="1" episodeoffset="" tmdbtv="45161" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Yawaraka Sangokushi Tsukisase!! Ryofuko-chan</name>
   </anime>
-  <anime anidbid="5352" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="30984" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt1148261">
+  <anime anidbid="5352" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="17101" imdbid="tt1148261">
     <name>Gekijouban Bleach: The DiamondDust Rebellion Mou Hitotsu no Hyourinmaru</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
@@ -16924,7 +16924,7 @@
       <studio>Sunrise</studio>
     </supplemental-info>
   </anime>
-  <anime anidbid="6041" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="30984" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt1339302">
+  <anime anidbid="6041" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="17165" imdbid="tt1339302">
     <name>Gekijouban Bleach: Fade to Black Kimi no Na o Yobu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
@@ -21347,7 +21347,7 @@
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7666" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="30984" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt1785394">
+  <anime anidbid="7666" tvdbid="74796" defaulttvdbseason="0" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="73245" imdbid="tt1785394">
     <name>Gekijouban Bleach: Jigoku Hen</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;</mapping>
@@ -42877,7 +42877,7 @@
       <mapping anidbseason="1" tvdbseason="1">;1-1+2+3;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="15449" tvdbid="74796" defaulttvdbseason="17" episodeoffset="" tmdbtv="30984" tmdbseason="17" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="15449" tvdbid="74796" defaulttvdbseason="17" episodeoffset="" tmdbtv="30984" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen</name>
   </anime>
   <anime anidbid="15450" tvdbid="269872" defaulttvdbseason="0" episodeoffset="1" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="693853" imdbid="tt13871024">
@@ -49228,7 +49228,7 @@
   <anime anidbid="17764" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Hokkyokuguma Suggoku Hima</name>
   </anime>
-  <anime anidbid="17765" tvdbid="74796" defaulttvdbseason="17" episodeoffset="13" tmdbtv="30984" tmdbseason="17" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17765" tvdbid="74796" defaulttvdbseason="17" episodeoffset="13" tmdbtv="30984" tmdbseason="2" tmdboffset="13" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen - Ketsubetsu Tan</name>
   </anime>
   <anime anidbid="17766" tvdbid="428350" defaulttvdbseason="1" episodeoffset="" tmdbtv="216269" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -49318,7 +49318,7 @@
   <anime anidbid="17795" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kemonokko Tsuushin: The Animation - Nekomusume Nia</name>
   </anime>
-  <anime anidbid="17796" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="17796" tvdbid="412826" defaulttvdbseason="2" episodeoffset="" tmdbtv="139512" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Otomege Sekai wa Mob ni Kibishii Sekai Desu 2</name>
   </anime>
   <anime anidbid="17798" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -50528,7 +50528,7 @@
   <anime anidbid="18219" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1209217" imdbid="">
     <name>Meitantei Conan: 100-man Dol no Michishirube</name>
   </anime>
-  <anime anidbid="18220" tvdbid="74796" defaulttvdbseason="17" episodeoffset="26" tmdbtv="30984" tmdbseason="17" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18220" tvdbid="74796" defaulttvdbseason="17" episodeoffset="26" tmdbtv="30984" tmdbseason="2" tmdboffset="26" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen - Soukoku Tan</name>
   </anime>
   <anime anidbid="18221" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -50873,7 +50873,7 @@
   <anime anidbid="18342" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Zhen Wu Dianfeng 3rd Season</name>
   </anime>
-  <anime anidbid="18343" tvdbid="432050" defaulttvdbseason="2" episodeoffset="" tmdbtv="223564" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18343" tvdbid="432050" defaulttvdbseason="2" episodeoffset="" tmdbtv="223564" tmdbseason="1" tmdboffset="12" tmdbid="" imdbid="">
     <name>Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2025)</name>
   </anime>
   <anime anidbid="18344" tvdbid="443726" defaulttvdbseason="1" episodeoffset="" tmdbtv="242143" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -51750,7 +51750,7 @@
   <anime anidbid="18652" tvdbid="450475" defaulttvdbseason="1" episodeoffset="" tmdbtv="255358" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Koukaku Kidoutai (2026)</name>
   </anime>
-  <anime anidbid="18653" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18653" tvdbid="421737" defaulttvdbseason="3" episodeoffset="" tmdbtv="204832" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Mashle (Zokuhen)</name>
   </anime>
   <anime anidbid="18654" tvdbid="423732" defaulttvdbseason="1" episodeoffset="" tmdbtv="207332" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -51957,7 +51957,7 @@
   <anime anidbid="18726" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1313216" imdbid="">
     <name>Gekijou Soushuuhen Genjitsu no Yohane: Sunshine in the Mirror</name>
   </anime>
-  <anime anidbid="18727" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="18727" tvdbid="371310" defaulttvdbseason="3" episodeoffset="" tmdbtv="94664" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Mushoku Tensei III: Isekai Ittara Honki Dasu</name>
   </anime>
   <anime anidbid="18728" tvdbid="451767" defaulttvdbseason="1" episodeoffset="" tmdbtv="283360" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -52878,7 +52878,7 @@
   <anime anidbid="19052" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Nozomanu Fushi no Boukensha 2</name>
   </anime>
-  <anime anidbid="19053" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19053" tvdbid="401279" defaulttvdbseason="2" episodeoffset="" tmdbtv="123528" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II</name>
   </anime>
   <anime anidbid="19054" tvdbid="457843" defaulttvdbseason="1" episodeoffset="" tmdbtv="286723" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -52956,7 +52956,7 @@
   <anime anidbid="19078" tvdbid="402033" defaulttvdbseason="3" episodeoffset="" tmdbtv="123542" tmdbseason="3" tmdboffset="" tmdbid="" imdbid="">
     <name>Shiguang Dailiren: Yingdu Pian</name>
   </anime>
-  <anime anidbid="19079" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19079" tvdbid="74796" defaulttvdbseason="17" episodeoffset="40" tmdbtv="30984" tmdbseason="2" tmdboffset="40" tmdbid="" imdbid="">
     <name>Bleach: Sennen Kessen Hen - Kashin Tan</name>
   </anime>
   <anime anidbid="19080" tvdbid="458309" defaulttvdbseason="1" episodeoffset="" tmdbtv="287075" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
@@ -53847,7 +53847,7 @@
   <anime anidbid="19399" tvdbid="464977" defaulttvdbseason="1" episodeoffset="" tmdbtv="305163" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Goumon Baito-kun no Nichijou</name>
   </anime>
-  <anime anidbid="19400" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19400" tvdbid="452710" defaulttvdbseason="2" episodeoffset="" tmdbtv="260823" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Katainaka no Ossan, Kensei ni Naru II</name>
   </anime>
   <anime anidbid="19401" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -54597,7 +54597,7 @@
   <anime anidbid="19661" tvdbid="469352" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Isshiki-san wa Koi o Shiritai.</name>
   </anime>
-  <anime anidbid="19663" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19663" tvdbid="432050" defaulttvdbseason="3" episodeoffset="" tmdbtv="223564" tmdbseason="1" tmdboffset="24" tmdbid="" imdbid="">
     <name>Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2026)</name>
   </anime>
   <anime anidbid="19664" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -55461,7 +55461,7 @@
   <anime anidbid="19977" tvdbid="424536" defaulttvdbseason="3" episodeoffset="" tmdbtv="209867" tmdbseason="1" tmdboffset="38" tmdbid="" imdbid="">
     <name>Sousou no Frieren (2027)</name>
   </anime>
-  <anime anidbid="19978" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+  <anime anidbid="19978" tvdbid="457532" defaulttvdbseason="2" episodeoffset="" tmdbtv="280049" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)</name>
   </anime>
   <anime anidbid="19979" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
