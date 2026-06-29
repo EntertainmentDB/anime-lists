@@ -32637,7 +32637,7 @@
   <anime anidbid="15742" tvdbid="381406" defaulttvdbseason="2" tmdbtv="98986" tmdbseason="2">
     <name>Uzaki-chan wa Asobitai! Double</name>
   </anime>
-  <anime anidbid="15743" tvdbid="380654" defaulttvdbseason="2" tmdbtv="96316" tmdbseason="2">
+  <anime anidbid="15743" tvdbid="380654" defaulttvdbseason="2" tmdbtv="96316" tmdbseason="1" tmdboffset="12">
     <name>Kanojo, Okarishimasu (2022)</name>
   </anime>
   <anime anidbid="15744" tvdbid="389200" defaulttvdbseason="1" tmdbtv="110642" tmdbseason="1">
@@ -34729,7 +34729,7 @@
   <anime anidbid="17628" tvdbid="395486" defaulttvdbseason="2" tmdbtv="113137" tmdbseason="2">
     <name>Kanojo mo Kanojo (2023)</name>
   </anime>
-  <anime anidbid="17629" tvdbid="380654" defaulttvdbseason="3" tmdbtv="96316" tmdbseason="3">
+  <anime anidbid="17629" tvdbid="380654" defaulttvdbseason="3" tmdbtv="96316" tmdbseason="1" tmdboffset="24">
     <name>Kanojo, Okarishimasu (2023)</name>
   </anime>
   <anime anidbid="17630" tvdbid="401233" defaulttvdbseason="2" tmdbtv="123249" tmdbseason="2">
@@ -36405,7 +36405,7 @@
   <anime anidbid="18751" tvdbid="452103" defaulttvdbseason="1" tmdbtv="258901" tmdbseason="1">
     <name>Sanda</name>
   </anime>
-  <anime anidbid="18753" tvdbid="380654" defaulttvdbseason="4" tmdbtv="96316" tmdbseason="4">
+  <anime anidbid="18753" tvdbid="380654" defaulttvdbseason="4" tmdbtv="96316" tmdbseason="1" tmdboffset="36">
     <name>Kanojo, Okarishimasu (2025)</name>
   </anime>
   <anime anidbid="18754" tvdbid="271591" defaulttvdbseason="13" tmdbtv="56559" tmdbseason="13">
@@ -37353,7 +37353,7 @@
   <anime anidbid="19586" tvdbid="468324" defaulttvdbseason="1" tmdbtv="301139" tmdbseason="1">
     <name>#Zombie Sagashitemasu</name>
   </anime>
-  <anime anidbid="19587" tvdbid="380654" defaulttvdbseason="5" tmdbtv="96316" tmdbseason="5">
+  <anime anidbid="19587" tvdbid="380654" defaulttvdbseason="5" tmdbtv="96316" tmdbseason="1" tmdboffset="48">
     <name>Kanojo, Okarishimasu (2026)</name>
   </anime>
   <anime anidbid="19588" tvdbid="459743" defaulttvdbseason="1" tmdbtv="297743" tmdbseason="1">
@@ -37736,5 +37736,8 @@
   </anime>
   <anime anidbid="20084" tvdbid="478865" defaulttvdbseason="1" tmdbtv="324862" tmdbseason="1">
     <name>Juuheisou-gata Joshikousei</name>
+  </anime>
+  <anime anidbid="20136" tvdbid="380654" defaulttvdbseason="6" tmdbtv="96316" tmdbseason="1" tmdboffset="60">
+    <name>Kanojo, Okarishimasu 6</name>
   </anime>
 </anime-list>
