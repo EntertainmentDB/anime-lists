@@ -35657,6 +35657,9 @@
   <anime anidbid="18187" tvdbid="movie" tmdbid="1189199">
     <name>Kizumonogatari: Koyomi Vamp</name>
   </anime>
+  <anime anidbid="18188" tvdbid="392491" defaulttvdbseason="2" tmdbtv="109805" tmdbseason="2">
+    <name>Azur Lane: Bisoku Zenshin! Ni!!</name>
+  </anime>
   <anime anidbid="18190" tvdbid="465216" defaulttvdbseason="1" tmdbtv="295357" tmdbseason="1">
     <name>Hokuto no Ken (2026)</name>
   </anime>
@@ -35698,6 +35701,12 @@
   </anime>
   <anime anidbid="18209" tvdbid="440057" defaulttvdbseason="1" tmdbtv="290019" tmdbseason="1">
     <name>Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta</name>
+  </anime>
+  <anime anidbid="18210" tvdbid="476185" defaulttvdbseason="1" tmdbtv="284581" tmdbseason="1">
+    <name>Saikyou Degarashi Ouji no An'yaku Teii Arasoi: Munou o Enjiru SS Rank Ouji wa Koui Keishou-sen o Kage kara Shihai Suru</name>
+  </anime>
+  <anime anidbid="18211" tvdbid="467401" defaulttvdbseason="1" tmdbtv="250008" tmdbseason="1">
+    <name>Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken</name>
   </anime>
   <anime anidbid="18213" tvdbid="398555" defaulttvdbseason="3" tmdbtv="117992" tmdbseason="3">
     <name>Shinigami Bocchan to Kuro Maid (2024)</name>
@@ -36822,6 +36831,9 @@
   <anime anidbid="19060" tvdbid="432832" defaulttvdbseason="2" tmdbtv="240411" tmdbseason="2">
     <name>Dan Da Dan (2025)</name>
   </anime>
+  <anime anidbid="19063" tvdbid="442767" defaulttvdbseason="2" tmdbtv="240576" tmdbseason="2">
+    <name>Kabushikigaisha Magilumiere (2026)</name>
+  </anime>
   <anime anidbid="19064" tvdbid="458008" defaulttvdbseason="1">
     <name>Arcanadea</name>
   </anime>
@@ -37458,6 +37470,9 @@
   <anime anidbid="19694" tvdbid="470050" defaulttvdbseason="1" tmdbtv="304577" tmdbseason="1">
     <name>The Lenticulars</name>
   </anime>
+  <anime anidbid="19698" tvdbid="392195" defaulttvdbseason="2" tmdbtv="110837" tmdbseason="2">
+    <name>Bungou Stray Dogs Wan! 2</name>
+  </anime>
   <anime anidbid="19699" tvdbid="469985" defaulttvdbseason="1" tmdbtv="304820" tmdbseason="1">
     <name>Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken</name>
   </anime>
@@ -37706,6 +37721,9 @@
   </anime>
   <anime anidbid="19957" tvdbid="475739" defaulttvdbseason="1" tmdbtv="317259" tmdbseason="1">
     <name>Vertex Force</name>
+  </anime>
+  <anime anidbid="19961" tvdbid="450072" defaulttvdbseason="2" tmdbtv="254492" tmdbseason="2">
+    <name>Hanazakari no Kimitachi e (2026)</name>
   </anime>
   <anime anidbid="19967" tvdbid="461472" defaulttvdbseason="2" tmdbtv="285933" tmdbseason="2">
     <name>Mayonaka Heart Tune 2</name>
