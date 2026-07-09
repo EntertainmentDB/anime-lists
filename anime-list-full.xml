@@ -36651,6 +36651,9 @@
   <anime anidbid="18901" tvdbid="421069" defaulttvdbseason="3" tmdbtv="203737" tmdbseason="1" tmdboffset="24">
     <name>"Oshi no Ko" (2026)</name>
   </anime>
+  <anime anidbid="18903" tvdbid="432455" defaulttvdbseason="2" tmdbtv="222623" tmdbseason="2">
+    <name>Nige Jouzu no Wakagimi (2026)</name>
+  </anime>
   <anime anidbid="18913" tvdbid="454700" defaulttvdbseason="1" tmdbtv="272055" tmdbseason="1">
     <name>Murder Mystery of the Dead</name>
   </anime>
@@ -37587,6 +37590,9 @@
   <anime anidbid="19815" tvdbid="472490" defaulttvdbseason="1" tmdbtv="312049" tmdbseason="1">
     <name>Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.</name>
   </anime>
+  <anime anidbid="19816" tvdbid="464693" defaulttvdbseason="1" episodeoffset="12" tmdbtv="293629" tmdbseason="1" tmdboffset="12">
+    <name>Yoroi Shin Den Samurai Troopers (2026)</name>
+  </anime>
   <anime anidbid="19821" tvdbid="474202" defaulttvdbseason="1" tmdbtv="304126" tmdbseason="1">
     <name>Omae wa Mada Gunma o Shiranai: Reiwa Ban</name>
   </anime>
@@ -37607,6 +37613,9 @@
   </anime>
   <anime anidbid="19837" tvdbid="472831" defaulttvdbseason="1">
     <name>Iwamoto-senpai no Suisen</name>
+  </anime>
+  <anime anidbid="19838" tvdbid="452039" defaulttvdbseason="1" tmdbtv="297826" tmdbseason="1">
+    <name>Toukutsu Ou</name>
   </anime>
   <anime anidbid="19839" tvdbid="472832" defaulttvdbseason="1" tmdbtv="312047" tmdbseason="1">
     <name>Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu</name>
