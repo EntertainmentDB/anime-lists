@@ -37230,6 +37230,9 @@
   <anime anidbid="19442" tvdbid="454916" defaulttvdbseason="1" tmdbtv="293124" tmdbseason="1">
     <name>Kizu Darake Seijo yori Houfuku o Komete</name>
   </anime>
+  <anime anidbid="19444" tvdbid="431162" defaulttvdbseason="3" tmdbtv="220542" tmdbseason="1" tmdboffset="48">
+    <name>Kusuriya no Hitorigoto (2026)</name>
+  </anime>
   <anime anidbid="19448" tvdbid="465542" defaulttvdbseason="1" tmdbtv="295420" tmdbseason="1">
     <name>Shuiro no Kamen</name>
   </anime>
@@ -37460,6 +37463,9 @@
   </anime>
   <anime anidbid="19667" tvdbid="469451" defaulttvdbseason="1" tmdbtv="303460" tmdbseason="1">
     <name>Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?</name>
+  </anime>
+  <anime anidbid="19671" tvdbid="431162" defaulttvdbseason="4" tmdbtv="220542" tmdbseason="1" tmdboffset="72">
+    <name>Kusuriya no Hitorigoto (2027)</name>
   </anime>
   <anime anidbid="19674" tvdbid="469599" defaulttvdbseason="1" tmdbtv="303796" tmdbseason="1">
     <name>Ghost Concert: Missing Songs</name>
@@ -37745,6 +37751,9 @@
   </anime>
   <anime anidbid="19972" tvdbid="451479" defaulttvdbseason="3" tmdbtv="259140" tmdbseason="1" tmdboffset="24">
     <name>Ranma 1/2 (2026)</name>
+  </anime>
+  <anime anidbid="19975" tvdbid="377543" defaulttvdbseason="3" episodeoffset="12" tmdbtv="95479" tmdbseason="1" tmdboffset="59">
+    <name>Jujutsu Kaisen: Shimetsu Kaiyuu Kouhen</name>
   </anime>
   <anime anidbid="19977" tvdbid="424536" defaulttvdbseason="3" tmdbtv="209867" tmdbseason="1" tmdboffset="38">
     <name>Sousou no Frieren (2027)</name>
