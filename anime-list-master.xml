@@ -40905,7 +40905,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="14730" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Mebius Dust</name>
+    <name>Mobius Dust</name>
   </anime>
   <anime anidbid="14731" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tannishou o Hiraku</name>
@@ -53256,18 +53256,6 @@
   <anime anidbid="19183" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1441453" imdbid="">
     <name>Mumei no Jinsei</name>
   </anime>
-  <anime anidbid="19184" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Xiao Lu he Xiao Lan 2nd season (Beryl and Sapphire 2nd season)</name>
-  </anime>
-  <anime anidbid="19185" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Xiao Lu he Xiao Lan 3rd season (Beryl and Sapphire 3rd season)</name>
-  </anime>
-  <anime anidbid="19186" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Xiao Lu he Xiao Lan 4th season (Beryl and Sapphire 4th season)</name>
-  </anime>
-  <anime anidbid="19187" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Xiao Lu he Xiao Lan 5th season (Beryl and Sapphire 5th season)</name>
-  </anime>
   <anime anidbid="19188" tvdbid="468079" defaulttvdbseason="1" episodeoffset="" tmdbtv="310026" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Hokuto no Ken: Ken'ou-gun Zako-tachi no Banka</name>
   </anime>
@@ -56060,5 +56048,35 @@
   </anime>
   <anime anidbid="20190" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tiny Metal: Zerosen Sen</name>
+  </anime>
+  <anime anidbid="20191" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Plannosaurus: Gachi Koseibutsu Bu</name>
+  </anime>
+  <anime anidbid="20192" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yami Shibai 17</name>
+  </anime>
+  <anime anidbid="20193" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kizuguchi to Houtai</name>
+  </anime>
+  <anime anidbid="20194" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Noa-senpai wa Tomodachi.</name>
+  </anime>
+  <anime anidbid="20196" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Tora Tsugumi</name>
+  </anime>
+  <anime anidbid="20197" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Dongda Gao Wu Xueyuan</name>
+  </anime>
+  <anime anidbid="20198" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Zeri Feisheng</name>
+  </anime>
+  <anime anidbid="20199" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Jiaonang Jihua: Qiji</name>
+  </anime>
+  <anime anidbid="20200" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yao Shen Ji Di Shi Ji</name>
+  </anime>
+  <anime anidbid="20201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Gu Changge: Wo! Tianming Da Fanpai</name>
   </anime>
 </anime-list>
