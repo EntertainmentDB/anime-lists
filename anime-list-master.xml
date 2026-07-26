@@ -5943,7 +5943,7 @@
     <name>Moekan The Animation</name>
   </anime>
   <anime anidbid="1634" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="tt0374262">
-    <name>Tamala 2010 - A Punk Cat in Space</name>
+    <name>Tamala 2010: A Punk Cat in Space</name>
   </anime>
   <anime anidbid="1635" tvdbid="74504" defaulttvdbseason="1" episodeoffset="" tmdbtv="35871" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Mahou no Princess Minky Momo</name>
@@ -45841,7 +45841,7 @@
     <name>Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto</name>
   </anime>
   <anime anidbid="16565" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Fate/Kaleid Liner Prisma Illya (Zokuhen)</name>
+    <name>Fate/Kaleid Liner Prisma Illya Finale</name>
   </anime>
   <anime anidbid="16566" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Dou Po Cangqiong: San Nian Zhi Yue</name>
@@ -54358,7 +54358,7 @@
     <name>Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season</name>
   </anime>
   <anime anidbid="19581" tvdbid="451793" defaulttvdbseason="2" episodeoffset="" tmdbtv="258348" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
-    <name>Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha</name>
+    <name>Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou</name>
   </anime>
   <anime anidbid="19582" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Kaiju Decode: Aidara no Yubiwa</name>
@@ -55414,7 +55414,7 @@
     <name>Girls und Panzer: Dream Tank Match Picture Drama: Sensha Saiban Desu!</name>
   </anime>
   <anime anidbid="19967" tvdbid="461472" defaulttvdbseason="2" episodeoffset="" tmdbtv="285933" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
-    <name>Mayonaka Heart Tune 2</name>
+    <name>Mayonaka Heart Tune (2027)</name>
   </anime>
   <anime anidbid="19968" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Sou Shen Ji</name>
@@ -55588,7 +55588,7 @@
     <name>Hokuhokusei ni Kumori to Yuke</name>
   </anime>
   <anime anidbid="20030" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>OVA Furachi</name>
+    <name>Furachi</name>
   </anime>
   <anime anidbid="20031" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Lele Bianlidian</name>
@@ -56078,5 +56078,35 @@
   </anime>
   <anime anidbid="20201" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gu Changge: Wo! Tianming Da Fanpai</name>
+  </anime>
+  <anime anidbid="20202" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Real mo Tama ni wa Uso o Tsuku</name>
+  </anime>
+  <anime anidbid="20203" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yurayura Q</name>
+  </anime>
+  <anime anidbid="20204" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Lian Qi Shi Wan Nian Special: Yangji Tianxia</name>
+  </anime>
+  <anime anidbid="20206" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Studio Cabana</name>
+  </anime>
+  <anime anidbid="20207" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yi Nian Yong Heng: Wanjie Ji</name>
+  </anime>
+  <anime anidbid="20208" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kusunoki-san wa Koukou Debut ni Shippai Shite Iru</name>
+  </anime>
+  <anime anidbid="20209" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu</name>
+  </anime>
+  <anime anidbid="20210" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kidou Senshi Gundam RG: Alex-Zero</name>
+  </anime>
+  <anime anidbid="20211" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Sanguo Sha: Taiping Tianshu</name>
+  </anime>
+  <anime anidbid="20212" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Jueshi Zhan Hun 2nd Season</name>
   </anime>
 </anime-list>
