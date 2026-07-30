@@ -27211,7 +27211,7 @@
   <anime anidbid="11805" tvdbid="293267" defaulttvdbseason="0" tmdbtv="64706" tmdbseason="0">
     <name>Prison School: Mad Wax</name>
   </anime>
-  <anime anidbid="11809" tvdbid="289906" defaulttvdbseason="0" episodeoffset="11" tmdbtv="62255" tmdbseason="0" tmdboffset="11">
+  <anime anidbid="11809" tvdbid="289906" defaulttvdbseason="0" episodeoffset="10" tmdbtv="62255" tmdbseason="0" tmdboffset="10">
     <name>Owari no Seraph: Kyuuketsuki Shahar</name>
   </anime>
   <anime anidbid="11810" tvdbid="358162" defaulttvdbseason="1" tmdbtv="88047" tmdbseason="1">
@@ -33555,7 +33555,7 @@
   <anime anidbid="16559" tvdbid="337936" defaulttvdbseason="3" tmdbtv="75865" tmdbseason="3">
     <name>Karakai Jouzu no Takagi-san 3</name>
   </anime>
-  <anime anidbid="16560" tvdbid="337936 " defaulttvdbseason="0" episodeoffset="1" tmdbid="938567" imdbid="tt15313532">
+  <anime anidbid="16560" tvdbid="337936" defaulttvdbseason="0" episodeoffset="1" tmdbid="938567" imdbid="tt15313532">
     <name>Gekijouban Karakai Jouzu no Takagi-san</name>
   </anime>
   <anime anidbid="16561" tvdbid="hentai">
@@ -36344,6 +36344,9 @@
   </anime>
   <anime anidbid="18697" tvdbid="443791" defaulttvdbseason="1" tmdbtv="241594" tmdbseason="1">
     <name>Mingyun Quan Tai</name>
+  </anime>
+  <anime anidbid="18699" tvdbid="348545" defaulttvdbseason="0" episodeoffset="15" tmdbid="1311031" imdbid="tt32820897">
+    <name>Gekijouban Kimetsu no Yaiba: Mugen-jou Hen</name>
   </anime>
   <anime anidbid="18700" tvdbid="451479" defaulttvdbseason="1" tmdbtv="259140" tmdbseason="1">
     <name>Ranma 1/2 (2024)</name>
