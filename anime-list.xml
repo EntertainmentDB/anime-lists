@@ -34027,6 +34027,9 @@
   <anime anidbid="17079" tvdbid="339278" defaulttvdbseason="2" tmdbtv="76139" tmdbseason="2">
     <name>Pop Team Epic (2022)</name>
   </anime>
+  <anime anidbid="17080" tvdbid="movie" tmdbid="920167" imdbid="tt31970593">
+    <name>Mahou Tsukai no Yoru</name>
+  </anime>
   <anime anidbid="17089" tvdbid="411329" defaulttvdbseason="2" tmdbtv="123684" tmdbseason="2">
     <name>Kaginado (2022)</name>
   </anime>
@@ -35708,6 +35711,9 @@
   <anime anidbid="18206" tvdbid="424779" defaulttvdbseason="1" episodeoffset="12" tmdbtv="210181" tmdbseason="1" tmdboffset="12">
     <name>Synduality Noir (2024)</name>
   </anime>
+  <anime anidbid="18208" tvdbid="440056" defaulttvdbseason="1" tmdbtv="335194" tmdbseason="1">
+    <name>Magical Explorer</name>
+  </anime>
   <anime anidbid="18209" tvdbid="440057" defaulttvdbseason="1" tmdbtv="290019" tmdbseason="1">
     <name>Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta</name>
   </anime>
@@ -37260,6 +37266,9 @@
   <anime anidbid="19444" tvdbid="431162" defaulttvdbseason="3" tmdbtv="220542" tmdbseason="1" tmdboffset="48">
     <name>Kusuriya no Hitorigoto (2026)</name>
   </anime>
+  <anime anidbid="19445" tvdbid="384541" defaulttvdbseason="2" tmdbtv="326788" tmdbseason="1">
+    <name>Cyberpunk: Edgerunners II</name>
+  </anime>
   <anime anidbid="19448" tvdbid="465542" defaulttvdbseason="1" tmdbtv="295420" tmdbseason="1">
     <name>Shuiro no Kamen</name>
   </anime>
@@ -37493,6 +37502,9 @@
   </anime>
   <anime anidbid="19667" tvdbid="469451" defaulttvdbseason="1" tmdbtv="303460" tmdbseason="1">
     <name>Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?</name>
+  </anime>
+  <anime anidbid="19670" tvdbid="movie" tmdbid="1566920" imdbid="tt39110207">
+    <name>Gekijouban Kusuriya no Hitorigoto: Bouhi no Hihou</name>
   </anime>
   <anime anidbid="19671" tvdbid="431162" defaulttvdbseason="4" tmdbtv="220542" tmdbseason="1" tmdboffset="72">
     <name>Kusuriya no Hitorigoto (2027)</name>
@@ -37829,6 +37841,9 @@
   </anime>
   <anime anidbid="20039" tvdbid="305074" defaulttvdbseason="0" episodeoffset="22" tmdbtv="65930" tmdbseason="0" tmdboffset="17">
     <name>Boku no Hero Academia: More</name>
+  </anime>
+  <anime anidbid="20040" tvdbid="477658" defaulttvdbseason="1">
+    <name>Kanojo no Tomodachi</name>
   </anime>
   <anime anidbid="20060" tvdbid="478148" defaulttvdbseason="1" tmdbtv="323056" tmdbseason="1">
     <name>Omae, Tanuki ni Naranee ka?</name>
