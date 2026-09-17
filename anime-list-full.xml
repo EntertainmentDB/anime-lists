@@ -31743,6 +31743,9 @@
   <anime anidbid="15101" tvdbid="370501" defaulttvdbseason="1" tmdbtv="94299" tmdbseason="1">
     <name>Taeko no Nichijou</name>
   </anime>
+  <anime anidbid="15102" tvdbid="361218" defaulttvdbseason="0" tmdbid="632632" imdbid="tt11802992">
+    <name>Eiga Given</name>
+  </anime>
   <anime anidbid="15106" tvdbid="264663" defaulttvdbseason="4" tmdbtv="46004" tmdbseason="4">
     <name>Date a Live IV</name>
   </anime>
@@ -33344,6 +33347,9 @@
   </anime>
   <anime anidbid="16356" tvdbid="413480" defaulttvdbseason="1" tmdbtv="146339" tmdbseason="1">
     <name>Dawang Raoming</name>
+  </anime>
+  <anime anidbid="16357" tvdbid="361218" defaulttvdbseason="0" episodeoffset="3" tmdbtv="88040" tmdbseason="0">
+    <name>Given: Uragawa no Sonzai</name>
   </anime>
   <anime anidbid="16358" tvdbid="407840" defaulttvdbseason="1" tmdbtv="126437" tmdbseason="1">
     <name>Ao Ashi</name>
@@ -35275,6 +35281,9 @@
   </anime>
   <anime anidbid="17928" tvdbid="437919" defaulttvdbseason="1" tmdbtv="224015" tmdbseason="1">
     <name>Mask Danshi wa Koishitakunai no ni</name>
+  </anime>
+  <anime anidbid="17929" tvdbid="361218" defaulttvdbseason="0" episodeoffset="1" tmdbid="1230477,1317276" imdbid="tt31257225,tt35631332">
+    <name>Eiga Given (2024)</name>
   </anime>
   <anime anidbid="17930" tvdbid="339203" defaulttvdbseason="2" tmdbtv="77240" tmdbseason="2">
     <name>Captain Tsubasa Season 2: Junior Youth Hen</name>
