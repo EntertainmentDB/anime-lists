@@ -2848,7 +2848,7 @@
     <name>Kokudou Ou</name>
   </anime>
   <anime anidbid="661" tvdbid="79888" defaulttvdbseason="1" tmdbtv="35205" tmdbseason="1">
-    <name>Herlock Saga</name>
+    <name>Herlock Saga: Nibelung no Yubiwa - Rhein no Ougon</name>
   </anime>
   <anime anidbid="662" tvdbid="72459" defaulttvdbseason="a" tmdbtv="10926" tmdbseason="a">
     <name>Sonic X</name>
@@ -11463,7 +11463,7 @@
     <name>Himawari!</name>
   </anime>
   <anime anidbid="4177" tvdbid="82179" defaulttvdbseason="1" tmdbtv="42966" tmdbseason="1">
-    <name>Getsumen To Heiki Mina</name>
+    <name>Getsumento Heiki Mina</name>
   </anime>
   <anime anidbid="4178" tvdbid="79797" defaulttvdbseason="1" tmdbtv="34735" tmdbseason="1">
     <name>Zegapain</name>
@@ -14370,7 +14370,7 @@
     <name>Neo Angelique Abyss</name>
   </anime>
   <anime anidbid="5625" tvdbid="81831" defaulttvdbseason="1" tmdbtv="34742" tmdbseason="1">
-    <name>To Love-Ru: Trouble</name>
+    <name>To Love-Ru</name>
   </anime>
   <anime anidbid="5628" tvdbid="hentai">
     <name>Ikusa Otome Suvia</name>
@@ -15935,7 +15935,7 @@
     <name>Sasameki Koto</name>
   </anime>
   <anime anidbid="6463" tvdbid="81831" defaulttvdbseason="0" tmdbtv="34742" tmdbseason="0">
-    <name>To Love-Ru: Trouble (2009)</name>
+    <name>To Love-Ru (2009)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -18921,7 +18921,7 @@
     <name>Hitou Meguri Kakure Yu</name>
   </anime>
   <anime anidbid="7680" tvdbid="81831" defaulttvdbseason="2" tmdbtv="34742" tmdbseason="2">
-    <name>Motto To Love-Ru: Trouble</name>
+    <name>Motto To Love-Ru</name>
   </anime>
   <anime anidbid="7681" tvdbid="OVA">
     <name>Soukou Kyojin Z-Knight</name>
@@ -22232,7 +22232,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9133" tvdbid="81831" defaulttvdbseason="3" tmdbtv="34742" tmdbseason="3">
-    <name>To Love-Ru: Trouble - Darkness</name>
+    <name>To Love-Ru: Darkness</name>
   </anime>
   <anime anidbid="9134" tvdbid="194961" defaulttvdbseason="2" tmdbtv="56353" tmdbseason="2">
     <name>Ore no Imouto ga Konna ni Kawaii Wake ga Nai.</name>
@@ -22298,7 +22298,7 @@
     <name>Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!</name>
   </anime>
   <anime anidbid="9162" tvdbid="81831" defaulttvdbseason="0" tmdbtv="34742" tmdbseason="0">
-    <name>To Love-Ru: Trouble - Darkness OAD</name>
+    <name>To Love-Ru: Darkness OAD</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0" start="1" end="9" offset="6"/>
     </mapping-list>
@@ -26156,7 +26156,7 @@
     <name>Mushishi Zoku Shou: Suzu no Shizuku</name>
   </anime>
   <anime anidbid="10992" tvdbid="81831" defaulttvdbseason="4" tmdbtv="34742" tmdbseason="4">
-    <name>To Love-Ru: Trouble - Darkness 2nd</name>
+    <name>To Love-Ru: Darkness 2nd</name>
   </anime>
   <anime anidbid="10993" tvdbid="79895" defaulttvdbseason="7" tmdbtv="57041" tmdbseason="7">
     <name>Gintama (2015)</name>
@@ -28793,7 +28793,7 @@
     <name>Koi wa Ameagari no You ni</name>
   </anime>
   <anime anidbid="12909" tvdbid="81831" defaulttvdbseason="0" tmdbtv="34742" tmdbseason="0">
-    <name>To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara</name>
+    <name>To Love-Ru: Multiplication - Mae kara Ushiro kara</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
     </mapping-list>
